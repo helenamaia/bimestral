@@ -1,12 +1,13 @@
+package bimestral;
 
-import control.JanelaBase;
-import control.NavegadorCenas;
+
+import bimestral.control.JanelaBase;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
-import model.Jogo;
+import bimestral.model.Jogo;
 
 
 import java.io.IOException;

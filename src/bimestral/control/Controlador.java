@@ -1,4 +1,4 @@
-package control;
+package bimestral.control;
 
 import javafx.scene.control.Alert;
 

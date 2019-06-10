@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="bimestral.control.Principal"
+            prefHeight="400.0" prefWidth="600.0"
+            fx:id="root"
+            styleClass="root"
+            stylesheets="/bimestral/css/base.css">
+
+
+            <center>
+                <GridPane vgap="5" hgap="5">
+                    <padding>
+                        <Insets bottom="300" left="300" right="300" top="300" />
+                    </padding>
+
+
+                    <Label text="Login:"
+                           style="-fx-text-fill: white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="0"/>
+                    <TextField GridPane.rowIndex="1"
+                               GridPane.columnIndex="0"
+                                fx:id="tfLogin"/>
+                    <Label text="Senha:"
+                           style="-fx-text-fill: white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="2"/>
+                    <TextField GridPane.rowIndex="3"
+                               GridPane.columnIndex="0"
+                               fx:id="tfSenha"/>
+
+                    <Button onAction="#entrar"
+                            text="Entrar"
+                            GridPane.rowIndex="4"
+                            GridPane.columnIndex="0"/>
+                    <Button onAction="#criarConta"
+                            text="Criar conta"
+                            GridPane.rowIndex="5"
+                            GridPane.columnIndex="0"/>
+
+
+
+
+
+
+                </GridPane>
+
+
+
+
+
+            </center>
+
+
+
+
+</BorderPane>

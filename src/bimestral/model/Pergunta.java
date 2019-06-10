@@ -1,4 +1,4 @@
-package model;
+package bimestral.model;
 
 import java.util.ArrayList;
 

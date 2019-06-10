@@ -1,8 +1,7 @@
-package control;
+package bimestral.control;
 
 import javafx.fxml.FXML;
 
-import javafx.scene.control.Button;
 public class Principal extends Controlador{
 
     @FXML
@@ -15,5 +14,8 @@ public class Principal extends Controlador{
         System.out.println("prfv vai");
     }
 
-
+    @FXML
+    public void criarConta(){
+        System.out.println("djjdfjj");
+    }
 }

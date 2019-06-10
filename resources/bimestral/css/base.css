@@ -1,0 +1,7 @@
+.root{
+    -fx-background-image: url("/bimestral/images/oficial.jpg");
+    -fx-border-style: dashed;
+    -fx-border-width: 5pt;
+    -fx-border-color: white;
+    -fx-padding: 10pt;
+}
