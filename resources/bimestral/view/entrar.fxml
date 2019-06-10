@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.collections.FXCollections?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="bimestral.control.JanelaEntrar"
+            prefHeight="400.0" prefWidth="600.0"
+            fx:id="root"
+            styleClass="root"
+            stylesheets="/bimestral/css/base.css">
+
+
+
+            <center>
+                <GridPane vgap="5" hgap="5">
+                    <padding>
+                        <Insets bottom="300" left="300" right="300" top="300" />
+                    </padding>
+                    <Button text="Jogar"
+
+                            GridPane.columnIndex="0"
+                            GridPane.rowIndex="0"
+                            onAction="#jogar"/>
+                    <ComboBox GridPane.rowIndex="1" GridPane.columnIndex="0" GridPane.columnSpan="8">
+                        <items>
+                            <FXCollections fx:factory="observableArrayList">
+                                <String fx:value="Fácil"/>
+                                <String fx:value="Médio"/>
+                                <String fx:value="Difícil"/>
+                            </FXCollections>
+                        </items>
+                        <value>
+                            <String fx:value="Fácil"/>
+                        </value>
+                    </ComboBox>
+                    <ComboBox GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="5">
+                        <items>
+                            <FXCollections fx:factory="observableArrayList">
+                                <String fx:value="todos"/>
+                                <String fx:value="Matemática"/>
+                                <String fx:value="Biologia"/>
+                                <String fx:value="Química"/>
+                                <String fx:value="Português"/>
+                                <String fx:value="Inglês"/>
+                                <String fx:value="Filosofia"/>
+                                <String fx:value="Física"/>
+                                <String fx:value="História"/>
+                                <String fx:value="Geografia"/>
+                            </FXCollections>
+                        </items>
+                        <value>
+                            <String fx:value="todos"/>
+                        </value>
+                    </ComboBox>
+
+                    <Button GridPane.columnIndex="0"
+                            GridPane.rowIndex="3"
+
+                            text="Ajuda"
+                            onAction="#ajuda"/>
+                    <Button GridPane.columnIndex="4"
+                            GridPane.rowIndex="4"
+                            text="voltar"
+                            onAction="#voltar"/>
+
+
+
+                </GridPane>
+
+            </center>
+    <bottom>
+
+
+        <BorderPane>
+            <BorderPane.margin>
+                <Insets right="40.0" bottom="20"/>
+            </BorderPane.margin>
+            <right>
+                <Button text="Voltar"
+                        onAction="#voltar"/>
+            </right>
+        </BorderPane>
+
+
+    </bottom>
+
+
+
+
+
+
+
+</BorderPane>

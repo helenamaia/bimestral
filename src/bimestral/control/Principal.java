@@ -1,5 +1,6 @@
 package bimestral.control;
 
+import bimestral.NavegadorCenas;
 import javafx.fxml.FXML;
 
 public class Principal extends Controlador{
@@ -11,11 +12,11 @@ public class Principal extends Controlador{
 
     @FXML
     public void entrar(){
-        System.out.println("prfv vai");
+        NavegadorCenas.loadJanela(NavegadorCenas.ENTRAR);
     }
 
     @FXML
     public void criarConta(){
-        System.out.println("djjdfjj");
+        NavegadorCenas.loadJanela(NavegadorCenas.CADASTRAR);
     }
 }

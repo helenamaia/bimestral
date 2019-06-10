@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="bimestral.control.Jogar"
+            prefHeight="400.0" prefWidth="600.0"
+            fx:id="root"
+            styleClass="root"
+            stylesheets="/bimestral/css/base.css">
+
+            <center>
+                <GridPane vgap="8" hgap="8">
+                    <padding>
+                        <Insets bottom="2" left="200" right="15" top="70" />
+                    </padding>
+                    <TextArea GridPane.rowIndex="0" GridPane.columnIndex="0"  GridPane.columnSpan="20" fx:id="taVerPerguntas" prefColumnCount="20" prefHeight="350.0" prefWidth="350.0" />
+                    <fx:define>
+                        <ToggleGroup fx:id="grupo"/>
+                    </fx:define>
+                    <VBox GridPane.rowIndex="1" GridPane.columnIndex="0" GridPane.columnSpan="20">
+                        <RadioButton fx:id="letraA" text="A"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="letraB" text="B"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="letraC" text="C"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="letraD" text="D"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+
+                    </VBox>
+                    <BorderPane.margin>
+                        <Insets right="40.0" bottom="1"/>
+                    </BorderPane.margin>
+                    <Button text="Pular" onAction="#pular" GridPane.columnIndex="13" GridPane.rowIndex="2"/>
+                    <Button text="Desistir" onAction="#desistir" GridPane.columnIndex="16" GridPane.rowIndex="2"/>
+                    <Button text="Avançar" onAction="#avancar" GridPane.columnIndex="19" GridPane.rowIndex="2"/>
+
+
+                </GridPane>
+            </center>
+
+</BorderPane>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="bimestral.control.Cadastrar"
+            prefHeight="400.0" prefWidth="400.0"
+            fx:id="root"
+            styleClass="root"
+            stylesheets="/bimestral/css/base.css">
+
+            <center>
+                <GridPane hgap="5" vgap="5">
+                    <padding>
+                        <Insets bottom="150" left="150" right="150" top="150" />
+                    </padding>
+                    <Label text="Login:"
+                           style="-fx-text-fill: white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="0"/>
+                    <TextField fx:id="login"
+                               prefColumnCount="35"
+                               GridPane.columnIndex="1"
+                               GridPane.rowIndex="0"
+                               GridPane.columnSpan="3"/>
+                    <Label text="Senha:"
+                           style="-fx-text-fill:white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="1"
+                           />
+                    <TextField fx:id="senha"
+                               prefColumnCount="10"
+                               GridPane.columnIndex="1"
+                               GridPane.rowIndex="1"
+                               GridPane.columnSpan="3"/>
+                    <Label text="Confirme a senha:"
+                           style="-fx-text-fill:white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="2"
+                    />
+                    <TextField fx:id="confSenha"
+                               prefColumnCount="10"
+                               GridPane.columnIndex="1"
+                               GridPane.rowIndex="2"
+                               GridPane.columnSpan="3"/>
+                    <Label text="Código"
+                           style="-fx-text-fill:white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="3"/>
+                    <TextField fx:id="codigo"
+                               prefColumnCount="2"
+                               GridPane.columnIndex="1"
+                               GridPane.rowIndex="3"
+                               GridPane.columnSpan="3"/>
+                    <Label text="Nome"
+                           style="-fx-text-fill:white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="4"/>
+                    <TextField fx:id="Nome"
+                               prefColumnCount="2"
+                               GridPane.columnIndex="1"
+                               GridPane.rowIndex="4"
+                               GridPane.columnSpan="3"
+                    />
+
+                        <Button text="Voltar"
+                                onAction="#voltar"
+                                GridPane.columnIndex="4"
+                                GridPane.rowIndex="6"/>
+                        <Button text="Salvar"
+                                onAction="#salvar"
+                                GridPane.rowIndex="6"
+                                GridPane.columnIndex="5"
+                        />
+
+
+                </GridPane>
+            </center>
+
+
+</BorderPane>

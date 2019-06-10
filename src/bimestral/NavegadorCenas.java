@@ -9,6 +9,10 @@ public class NavegadorCenas {
 
     public static final String BASE    = "/bimestral/view/base.fxml";
     public static final String PRINCIPAL = "/bimestral/view/principal.fxml";
+    public static final String ENTRAR = "/bimestral/view/entrar.fxml";
+    public static final String AJUDA = "/bimestral/view/ajuda.fxml";
+    public static final String CADASTRAR = "/bimestral/view/cadastrar.fxml";
+    public static final String JOGAR = "/bimestral/view/jogar.fxml";
 
 
     private static JanelaBase controlador;
