@@ -8,6 +8,8 @@ public class Jogar {
     @FXML
     public void initialize(){
 
+
+
     }
     @FXML
     public void pular(){

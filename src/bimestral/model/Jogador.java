@@ -1,8 +1,9 @@
 package bimestral.model;
 
+import java.io.Serializable;
 import java.time.LocalDateTime;
 
-public class Jogador {
+public class Jogador implements Serializable {
 
     private String login;
     private String senha;

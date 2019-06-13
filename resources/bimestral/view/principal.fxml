@@ -34,7 +34,7 @@
                            style="-fx-text-fill: white"
                            GridPane.columnIndex="0"
                            GridPane.rowIndex="2"/>
-                    <TextField GridPane.rowIndex="3"
+                    <PasswordField GridPane.rowIndex="3"
                                GridPane.columnIndex="0"
                                fx:id="tfSenha"/>
 
