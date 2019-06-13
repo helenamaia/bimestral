@@ -50,6 +50,9 @@ public class Jogo {
         jogadores.add(j);
     }
 
+    public void remover(){atual.removeAll();}
+
+
     public void carregaDados() throws IOException,ClassNotFoundException{
 
         jogadores.clear();

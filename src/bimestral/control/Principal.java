@@ -28,10 +28,10 @@ public class Principal extends Controlador{
 
     @FXML
     public void entrar(){
-        Jogo.getInstance().getListaa().clear();
+        Jogo.getInstance().remover();
         String log = tfLogin.getText();
         String sen = tfSenha.getText();
-        Boolean okay = null;
+        Boolean okay = false;
         int codigo = 0;
         String nome = " ";
         int pontuação = 0;
@@ -44,14 +44,12 @@ public class Principal extends Controlador{
                 okay = true;
 
             }
-            else{
-                okay = false;
-            }
         }
 
         if(okay==true){
             Jogador novo = new Jogador(log, sen, codigo, nome, pontuação, lo);
             Jogo.getInstance().cadastrarAtual(novo);
+            System.out.println(novo);
             NavegadorCenas.loadJanela(NavegadorCenas.ENTRAR);
         }
         else if(okay==false){
