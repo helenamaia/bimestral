@@ -42,6 +42,9 @@ public class Jogo {
 
     public void cadastrarAtual(Jogador j){atual.add(j); }
 
+    public void cadastrarper(Pergunta p){
+        perguntas.add(p);
+    }
 
     public void cadastrar(Jogador j){
         jogadores.add(j);
