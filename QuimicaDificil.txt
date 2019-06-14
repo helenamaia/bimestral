@@ -1,0 +1,9 @@
+1
+5
+Os compostos binários, cujo elemento mais eletronegativo é o oxigênio, classificam‐se em: óxidos, peróxidos e superóxidos, em função do valor no número de oxidação (Nox) do átomo de oxigênio. Assinale a alternativa que apresenta somente peróxidos. (Considere apenas o conceito, independente de sua estabilidade ou não.)
+1) H2O2, NaO e LiO.
+2) H2O2, LiO2 e SO2.
+3) H2O2, CaO e CaO4.
+4) H2O2, BaO e N2O5.
+5) H2O2, NaO2 e RbO2.
+5

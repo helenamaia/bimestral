@@ -1,0 +1,9 @@
+1
+5
+As doenças de veiculação hídrica são aquelas em que o mecanismo de transmissão necessita da água para a transmissão da doença, desde a fonte de contaminação (normalmente o homem doente) até o reservatório de contaminação (normalmente o homem sadio). Assinale a alternativa que contém apenas doenças de veiculação hídrica:
+1) cólera, malária, hepatite A.
+2) febre tifoide, leptospirose, dengue.
+3) malária, leptospirose, diarreias agudas.
+4) cólera, febre tifoide, hepatite A.
+5) dengue, hepatite A, malária.
+5
