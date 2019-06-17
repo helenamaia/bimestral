@@ -49,7 +49,6 @@ public class Principal extends Controlador{
         if(okay==true){
             Jogador novo = new Jogador(log, sen, codigo, nome, pontuação, lo);
             Jogo.getInstance().cadastrarAtual(novo);
-            System.out.println(novo);
             NavegadorCenas.loadJanela(NavegadorCenas.ENTRAR);
         }
         else if(okay==false){

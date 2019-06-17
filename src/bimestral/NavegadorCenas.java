@@ -14,6 +14,7 @@ public class NavegadorCenas {
     public static final String AJUDA = "/bimestral/view/ajuda.fxml";
     public static final String CADASTRAR = "/bimestral/view/cadastrar.fxml";
     public static final String JOGAR = "/bimestral/view/jogar.fxml";
+    public static final String FIM = "/bimestral/view/fim.fxml";
 
 
     private static JanelaBase controlador;

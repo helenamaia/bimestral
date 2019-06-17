@@ -22,7 +22,6 @@ public class JanelaEntrar extends Controlador {
     public void jogar() {
         String a = "b";
         Jogo.getInstance().carregarPerguntas(a);
-        System.out.println(Jogo.getInstance().getListap());
         NavegadorCenas.loadJanela(NavegadorCenas.JOGAR);
 
     }

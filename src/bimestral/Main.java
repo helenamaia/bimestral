@@ -10,6 +10,7 @@ import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.util.Random;
 
 public class Main extends Application {
 
@@ -25,7 +26,6 @@ public class Main extends Application {
         stage.show();
 
     }
-
 
     private Pane loadMainPane() throws IOException {
         FXMLLoader loader = new FXMLLoader();

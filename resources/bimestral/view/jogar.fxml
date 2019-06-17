@@ -16,7 +16,7 @@
             stylesheets="/bimestral/css/base.css">
 
             <center>
-                <GridPane vgap="8" hgap="8">
+                <GridPane vgap="8" hgap="8" >
                     <padding>
                         <Insets bottom="2" left="200" right="15" top="70" />
                     </padding>
@@ -25,10 +25,11 @@
                         <ToggleGroup fx:id="grupo"/>
                     </fx:define>
                     <VBox GridPane.rowIndex="1" GridPane.columnIndex="0" GridPane.columnSpan="20">
-                        <RadioButton fx:id="letraA" text="A"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
-                        <RadioButton fx:id="letraB" text="B"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
-                        <RadioButton fx:id="letraC" text="C"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
-                        <RadioButton fx:id="letraD" text="D"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="1" text="1"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="2" text="2"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="3" text="3"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="4" text="4"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
+                        <RadioButton fx:id="5" text="5"  style="-fx-text-fill:white" toggleGroup="$grupo"/>
 
                     </VBox>
                     <BorderPane.margin>

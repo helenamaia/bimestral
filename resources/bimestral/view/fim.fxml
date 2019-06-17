@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.geometry.Insets?>
+<BorderPane fx:id="root" prefHeight="400.0" prefWidth="600.0" styleClass="root" stylesheets="/bimestral/css/base.css" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="bimestral.control.Fim">
+        <padding>
+            <Insets bottom="80" left="80" right="80" top="80" />
+        </padding>
+        <center>
+        <Text textAlignment="CENTER"
+              fill="WHITE" style="-fx-font-weight: bolder;
+                         -fx-font-size:50pt;
+                         -fx-text-fill: red"
+              text="FIM DE JOGO" />
+
+        </center>
+        <bottom>
+            <HBox nodeOrientation="RIGHT_TO_LEFT">
+                <Button textAlignment="LEFT"
+                        onAction="#volta"
+                        text="Voltar"/>
+
+            </HBox>
+
+
+        </bottom>
+
+
+</BorderPane>

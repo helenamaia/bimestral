@@ -5,6 +5,8 @@ import javafx.collections.ObservableList;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Jogo {
@@ -158,6 +160,37 @@ public class Jogo {
             scan.close();
         }catch(FileNotFoundException e){
             System.out.println(e.getMessage());
+        }
+
+    }
+
+    public HashSet<Pergunta> sortear(){
+
+        HashSet<Pergunta> sorteadas = new HashSet<>();
+
+        Random rnd = new Random(System.currentTimeMillis());
+
+        while (sorteadas.size() < 8){
+            int posicao = rnd.nextInt(perguntas.size());
+            Pergunta p = perguntas.get(posicao);
+            sorteadas.add(p);
+        }
+        return sorteadas;
+
+    }
+    public void adicionaPontuacao(int pont){
+        String login="", senha="";
+        for(Jogador g: atual){
+            login=g.getLogin();
+            senha=g.getSenha();
+        }
+        for(Jogador j: jogadores){
+            if(j.getLogin().equals(login) && j.getSenha().equals(senha)){
+                int pontuacao = j.getMaiorPontuacao()+pont;
+                j.setMaiorPontuacao(pontuacao);
+
+            }
+
         }
 
     }
