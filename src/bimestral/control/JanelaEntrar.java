@@ -25,7 +25,10 @@ public class JanelaEntrar extends Controlador {
         NavegadorCenas.loadJanela(NavegadorCenas.JOGAR);
 
     }
-
+    @FXML
+    public void ranking(){
+        NavegadorCenas.loadJanela(NavegadorCenas.RANKING);
+    }
     @FXML
     public void ajuda(){
         NavegadorCenas.loadJanela(NavegadorCenas.AJUDA);

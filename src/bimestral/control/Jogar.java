@@ -13,8 +13,9 @@ import java.util.HashSet;
 
 public class Jogar {
 
-    int cont = 0, pular = 0;
+    int cont = 0, pular = 0, pontos;
     ArrayList<Pergunta> sorteio = new ArrayList<>();
+    Pergunta atual = null;
 
     @FXML
     TextArea taVerPerguntas;
@@ -26,9 +27,8 @@ public class Jogar {
 
     @FXML
     public void initialize(){
-
         sorteio.addAll(Jogo.getInstance().sortear());
-        System.out.println("\n\n\naaaa"+sorteio);
+
 
         mostraPergunta();
 
@@ -37,36 +37,40 @@ public class Jogar {
     }
     @FXML
     public void pular(){
+        System.out.println(cont+" "+pular);
         if(pular<3){
             pular++;
             mostraPergunta();
         }
-
+        System.out.println(cont+" "+pular);
 
 
     }
     @FXML
     public void avancar(){
+        System.out.println(cont+" "+pular);
         String select = String.valueOf(grupo.getSelectedToggle());
         if(!select.equals("null")) {
             String[] div = select.split(",");
             div = div[0].split("=");
 
             select = div[1];
-            Pergunta p = sorteio.get(cont);
+            Pergunta p = atual;
             if (select.equals(String.valueOf(p.getCorreta()))) {
                 Jogo.getInstance().adicionaPontuacao(3);
+                pontos=pontos+3;
             } else {
                 Jogo.getInstance().adicionaPontuacao(-1);
+                pontos=pontos-1;
             }
         }
         int auxiliar = cont - pular;
-        System.out.println("meudeus"+auxiliar);
 
         if(auxiliar<5){
             mostraPergunta();
         }
-        else {
+        else if(auxiliar==5){
+            System.out.println("\n\nfoi\n\n");
             NavegadorCenas.loadJanela(NavegadorCenas.FIM);
 
         }
@@ -82,12 +86,12 @@ public class Jogar {
         int res = 0;
 
 
-        Pergunta p = sorteio.get(cont);
+        atual = sorteio.get(cont);
 
 
 
         resposta = new ArrayList<>();
-        resposta = p.getOpcoes();
+        resposta = atual.getOpcoes();
         for(int i = 0; i<resposta.size(); i++){
             if(cont1 == 0){
                 op1=resposta.get(i);
@@ -106,18 +110,16 @@ public class Jogar {
             }
             cont1++;
         }
-        enunciado=p.getEnunciado();
-        res = p.getCorreta();
+        enunciado=atual.getEnunciado();
+        res = atual.getCorreta();
         taVerPerguntas.setText(enunciado+"\n"+op1+"\n"+op2+"\n"+op3+"\n"+op4+"\n"+op5+"\n\n");
         cont++;
-
-
-
 
     }
 
     @FXML
     public void desistir(){
+        Jogo.getInstance().adicionaPontuacao(-(pontos));
         NavegadorCenas.loadJanela(NavegadorCenas.ENTRAR);
     }
 

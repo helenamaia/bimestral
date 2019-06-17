@@ -20,9 +20,13 @@ public class Jogo {
 
     private ObservableList<Jogador> atual;
 
+    private ObservableList<Ranking> rank;
+
     private static Jogo instance = new Jogo();
 
+
     public Jogo(){
+        rank = FXCollections.observableArrayList();
         atual = FXCollections.observableArrayList();
         jogadores = FXCollections.observableArrayList();
         perguntas = FXCollections.observableArrayList();
@@ -43,7 +47,26 @@ public class Jogo {
         return FXCollections.unmodifiableObservableList(perguntas);
     }
 
-    public void cadastrarAtual(Jogador j){atual.add(j); }
+    public ObservableList<Jogador> getListaRanking(){
+        ObservableList<Jogador> temp =  FXCollections.unmodifiableObservableList(jogadores);
+        return temp.sorted();
+    }
+
+
+    public void cadastraRanking(){
+        String name;
+        int pontuation;
+        for(Jogador j: jogadores){
+            name=j.getNome();
+            pontuation=j.getMaiorPontuacao();
+            Ranking r = new Ranking(name, pontuation);
+            rank.add(r);
+        }
+    }
+    public void cadastrarAtual(Jogador j){
+        atual.removeAll(atual);
+        atual.add(j);
+        System.out.println("\n\natual:"+atual);}
 
     public void cadastrarper(Pergunta p){
         perguntas.add(p);
@@ -156,7 +179,6 @@ public class Jogo {
                     }
                 }
             }
-            System.out.println(Jogo.getInstance().getListap());
             scan.close();
         }catch(FileNotFoundException e){
             System.out.println(e.getMessage());

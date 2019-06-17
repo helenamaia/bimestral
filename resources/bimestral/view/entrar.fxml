@@ -21,7 +21,7 @@
             <center>
                 <GridPane vgap="5" hgap="5">
                     <padding>
-                        <Insets bottom="300" left="300" right="300" top="300" />
+                        <Insets bottom="250" left="250" right="250" top="250" />
                     </padding>
                     <Button text="Jogar"
 
@@ -61,11 +61,16 @@
 
                     <Button GridPane.columnIndex="0"
                             GridPane.rowIndex="3"
+                            text="Ranking"
+                            onAction="#ranking"/>
+                    <Button GridPane.columnIndex="0"
+                            GridPane.rowIndex="4"
 
                             text="Ajuda"
+
                             onAction="#ajuda"/>
-                    <Button GridPane.columnIndex="4"
-                            GridPane.rowIndex="4"
+                    <Button GridPane.columnIndex="5"
+                            GridPane.rowIndex="5"
                             text="voltar"
                             onAction="#voltar"/>
 

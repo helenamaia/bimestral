@@ -3,7 +3,7 @@ package bimestral.model;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-public class Jogador implements Serializable {
+public class Jogador implements Serializable, Comparable<Jogador> {
 
     private String login;
     private String senha;
@@ -70,14 +70,13 @@ public class Jogador implements Serializable {
     }
 
     @Override
+    public int compareTo(Jogador jogador) {
+
+        return this.maiorPontuacao-jogador.getMaiorPontuacao();
+    }
+
+    @Override
     public String toString() {
-        return "Jogador{" +
-                "login='" + login + '\'' +
-                ", senha='" + senha + '\'' +
-                ", codigo=" + codigo +
-                ", nome='" + nome + '\'' +
-                ", maiorPontuacao=" + maiorPontuacao +
-                ", ultimaJogada=" + ultimaJogada +
-                '}';
+        return "\t\t\t\t\t"+nome+"\t\t\t\t\t\t\t"+maiorPontuacao;
     }
 }
