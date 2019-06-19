@@ -57,10 +57,10 @@ public class Jogar {
             select = div[1];
             Pergunta p = atual;
             if (select.equals(String.valueOf(p.getCorreta()))) {
-                Jogo.getInstance().adicionaPontuacao(3);
+
                 pontos=pontos+3;
             } else {
-                Jogo.getInstance().adicionaPontuacao(-1);
+
                 pontos=pontos-1;
             }
         }
@@ -70,10 +70,11 @@ public class Jogar {
             mostraPergunta();
         }
         else if(auxiliar==5){
-            System.out.println("\n\nfoi\n\n");
+            Jogo.getInstance().adicionaPontuacao(pontos);
             NavegadorCenas.loadJanela(NavegadorCenas.FIM);
 
         }
+
 
     }
     private void mostraPergunta(){

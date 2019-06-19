@@ -5,6 +5,8 @@ import bimestral.model.Jogo;
 import javafx.fxml.FXML;
 import javafx.scene.control.ListView;
 
+import java.util.Collections;
+
 public class Ranking {
 
     @FXML
@@ -15,7 +17,6 @@ public class Ranking {
     @FXML
     public void initialize(){
 
-        Jogo.getInstance().cadastraRanking();
 
         ltvRanking.setItems(Jogo.getInstance().getListaRanking());
 

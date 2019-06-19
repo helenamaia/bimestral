@@ -71,12 +71,19 @@ public class Jogador implements Serializable, Comparable<Jogador> {
 
     @Override
     public int compareTo(Jogador jogador) {
-
-        return this.maiorPontuacao-jogador.getMaiorPontuacao();
+        if (getMaiorPontuacao()> jogador.getMaiorPontuacao()){
+            return -1;
+        }
+        else if(getMaiorPontuacao()<jogador.getMaiorPontuacao()){
+            return 1;
+        }
+        else{
+            return 0;
+        }
     }
 
     @Override
     public String toString() {
-        return "\t\t\t\t\t"+nome+"\t\t\t\t\t\t\t"+maiorPontuacao;
+        return "\t\t\t\t\t"+nome+"\t\t\t\t\t"+maiorPontuacao;
     }
 }

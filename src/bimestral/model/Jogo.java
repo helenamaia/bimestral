@@ -4,10 +4,8 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Scanner;
+import java.time.LocalDateTime;
+import java.util.*;
 
 public class Jogo {
 
@@ -22,11 +20,13 @@ public class Jogo {
 
     private ObservableList<Ranking> rank;
 
+    private ObservableList<Jogador> raking;
+
     private static Jogo instance = new Jogo();
 
 
     public Jogo(){
-        rank = FXCollections.observableArrayList();
+        raking = FXCollections.observableArrayList();
         atual = FXCollections.observableArrayList();
         jogadores = FXCollections.observableArrayList();
         perguntas = FXCollections.observableArrayList();
@@ -48,19 +48,24 @@ public class Jogo {
     }
 
     public ObservableList<Jogador> getListaRanking(){
-        ObservableList<Jogador> temp =  FXCollections.unmodifiableObservableList(jogadores);
-        return temp.sorted();
+            return FXCollections.unmodifiableObservableList(raking);
     }
 
-
     public void cadastraRanking(){
-        String name;
-        int pontuation;
+
+        String name, senha, login;
+        int pontuation, cod;
+        LocalDateTime l;
+        Collections.sort(jogadores);
         for(Jogador j: jogadores){
             name=j.getNome();
+            senha=j.getSenha();
+            login=j.getLogin();
             pontuation=j.getMaiorPontuacao();
-            Ranking r = new Ranking(name, pontuation);
-            rank.add(r);
+            cod=j.getCodigo();
+            l=j.getUltimaJogada();
+            Jogador jog = new Jogador(login, senha, cod, name, pontuation, l);
+            raking.add(jog);
         }
     }
     public void cadastrarAtual(Jogador j){
@@ -208,7 +213,7 @@ public class Jogo {
         }
         for(Jogador j: jogadores){
             if(j.getLogin().equals(login) && j.getSenha().equals(senha)){
-                int pontuacao = j.getMaiorPontuacao()+pont;
+                int pontuacao = pont;
                 j.setMaiorPontuacao(pontuacao);
 
             }
