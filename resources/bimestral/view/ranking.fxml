@@ -4,10 +4,11 @@
 <?import javafx.scene.control.ListView?>
 <?import javafx.scene.layout.BorderPane?>
 
+<?import javafx.scene.control.Button?>
 <BorderPane fx:id="root" prefHeight="400.0" prefWidth="600.0" styleClass="root" stylesheets="/bimestral/css/base.css" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="bimestral.control.Ranking">
 
             <padding>
-                <Insets bottom="300" left="1000" right="1000" top="300" />
+                <Insets bottom="500" left="1000" right="1000" top="500" />
             </padding>
 
             <center>
@@ -18,6 +19,17 @@
                 </ListView>
 
             </center>
+            <bottom>
+                <BorderPane>
+                    <BorderPane.margin>
+                        <Insets right="40.0" bottom="20"/>
+                    </BorderPane.margin>
+                    <right>
+                        <Button text="Voltar"
+                                onAction="#voltar"/>
+                    </right>
+                </BorderPane>
+            </bottom>
 
 
 

@@ -56,6 +56,7 @@ public class Jogo {
         String name, senha, login;
         int pontuation, cod;
         LocalDateTime l;
+        raking.clear();
         Collections.sort(jogadores);
         for(Jogador j: jogadores){
             name=j.getNome();
@@ -67,6 +68,7 @@ public class Jogo {
             Jogador jog = new Jogador(login, senha, cod, name, pontuation, l);
             raking.add(jog);
         }
+        System.out.println(raking);
     }
     public void cadastrarAtual(Jogador j){
         atual.removeAll(atual);
@@ -213,8 +215,26 @@ public class Jogo {
         }
         for(Jogador j: jogadores){
             if(j.getLogin().equals(login) && j.getSenha().equals(senha)){
-                int pontuacao = pont;
-                j.setMaiorPontuacao(pontuacao);
+                if(j.getMaiorPontuacao() < pont){
+                    int pontuacao = pont;
+                    j.setMaiorPontuacao(pontuacao);
+                }
+
+            }
+
+        }
+
+    }
+    public void adicionaUltimajogada(){
+        String login="", senha="";
+        for(Jogador g: atual){
+            login=g.getLogin();
+            senha=g.getSenha();
+        }
+        for(Jogador j: jogadores){
+            if(j.getLogin().equals(login) && j.getSenha().equals(senha)){
+                j.setUltimaJogada(LocalDateTime.now());
+                System.out.println(j.getUltimaJogada());
 
             }
 

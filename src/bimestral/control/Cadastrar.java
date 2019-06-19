@@ -48,13 +48,16 @@ public class Cadastrar extends Controlador {
         String nom = nome.getText();
         LocalDateTime l = LocalDateTime.now();
 
-        int cont1 = 0, cont2 = 0, cont3 = 0;
+        int cont1 = 0, cont2 = 0, cont3 = 0, cont4=0;
         for(Jogador j: Jogo.getInstance().getListaj()){
             if(log.equals(j.getLogin())){
                 cont1++;
             }
             else if(cod == j.getCodigo()){
                 cont2++;
+            }
+            else if(nom.equals(j.getNome())){
+                cont4++;
             }
 
         }
@@ -64,7 +67,7 @@ public class Cadastrar extends Controlador {
         else{
             cont3++;
         }
-        if(cont1== 0 && cont2 == 0 && cont3==0){
+        if(cont1== 0 && cont2 == 0 && cont3==0 && cont4==0){
             Alert alerta = new Alert(Alert.AlertType.CONFIRMATION,"Deseja mesmo cadastrar esse usuário?");
             Optional<ButtonType> resultado = alerta.showAndWait();
 
@@ -83,6 +86,9 @@ public class Cadastrar extends Controlador {
         }
         else if(cont3>0){
             mensagem("Senhas não batem");
+        }
+        else if(cont4>0){
+            mensagem("Esse nome já está em uso, por favor insira outro");
         }
     }
 }
