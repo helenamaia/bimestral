@@ -1,4 +1,4 @@
-1
+10
 5
 As doenças de veiculação hídrica são aquelas em que o mecanismo de transmissão necessita da água para a transmissão da doença, desde a fonte de contaminação (normalmente o homem doente) até o reservatório de contaminação (normalmente o homem sadio). Assinale a alternativa que contém apenas doenças de veiculação hídrica:
 1) cólera, malária, hepatite A.
@@ -6,4 +6,67 @@ As doenças de veiculação hídrica são aquelas em que o mecanismo de transmis
 3) malária, leptospirose, diarreias agudas.
 4) cólera, febre tifoide, hepatite A.
 5) dengue, hepatite A, malária.
+4
+Qual é o ovo dos mamíferos?
+1) Centrolécito
+2) Telolécito
+3) Alécito
+4) Alicoide
+5) Heterolécito
+3
+Qual das alternativas abaixo não é um composto orgânico?
+1) lipidios.
+2) água.
+3) carboidratos.
+4) poteínas.
+5) vitaminas.
+2
+Qual são as funções dos ribossomos?
+1) matar as células e ressucitar as proteínas.
+2) transportar substâncias a ajudar na respiração celular.
+3) síntese de proteínas, secreção de substancias e sintese de lipidios.
+4) sintese de proteinas e tradução do código genético.
+5) respiração celular, sintese de glicideos, formação do acrossoma.
+4
+Qual é a Vitamina e o sal mineral que estão presentes na coagulação do sangue?
+1) vitamina K e calcio.
+2) vitamina D e potassio.
+3) vitamina K e cloro.
+4) vitamina C e iodo.
+5) vitamina E e calcio
+1
+Uma doença muito comum na época em que os Portuguêses vieram para o Brazil foi o Escorbuto,que é causado pela carência de uma vitamina.Qual é essa vitamina?
+1) vitamina A.
+2) vitamina B1.
+3) vitamina C.
+4) vitamina D.
+5) vitamina E.
+3
+Qual composto orgânico é a principal fonte de energia para os seres vivos?
+1) água.
+2) lipidios.
+3) ácidos nucleicos.
+4) vitaminas.
+5) carboidratos.
 5
+Os ossos de uma articulação são mantidos em seus devidos lugares constituídos por tecido conjuntivo denso modelado que possuem a função de conectar dois ou mais ossos estabilizando e protegendo as articulações do corpo. Assinale a alternativa correta referente à descrição:
+1) estiramentos.
+2) ligamentos.
+3) tendoes.
+4) cartilagens.
+5) receptores nervosos.
+2
+O sangue é formado por uma parte líquida, o plasma, e por diferentes tipos celulares. As hemacias são células sanguíneas cuja função é:
+1) transporte de gases respiratorios.
+2) defesa do organismo.
+3) coagulação sanguinea.
+4) transporte de hormônios e vitaminas.
+5) metabolização de excretas.
+1
+Sobre alimentos ricos em gorduras vegetais é possível prever que geralmente apresentem:
+1) grande concentração de acidos graxos insaturados.
+2) grande concentração de acidos graxos saturados.
+3) estado solido à temperatura ambiente.
+4) muitas ligações duplas trans em seu estado natural.
+5) grande concentração de colesterol.
+1

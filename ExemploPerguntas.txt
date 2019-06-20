@@ -1,4 +1,4 @@
-2
+
 4
 Aqui começa a pergunta 1, com o enunciado dela toda em uma única linha.
 Opcao 1
