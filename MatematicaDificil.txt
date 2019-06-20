@@ -1,4 +1,4 @@
-10
+6
 5
 A metade de 4^40 é igual a
 1) 2^20.
@@ -21,7 +21,7 @@ Numa pesquisa sobre o consumo dos produtos A,B e C, obteve-se o seguinte resulta
 4) 27%.
 5) 20%.
 5
-Durante uma viagem choveu 5 vezes. A chuva caia pela manhã ou à tarde, nunca o dia todo, houve 6 manhãs e 3 tardes sem chuvas. Quantos dias durou a viagem:
+Durante uma viagem choveu 5 vezes. A chuva caia pela manhã ou à tarde, nunca o dia todo, houve manhãs e 3 tardes sem chuva,quantos dias durou a viagem:
 1) 6.
 2) 7.
 3) 8.
@@ -42,3 +42,5 @@ Num grupo de estudantes, 80% estudam Inglês, 40% estudam Francês e 10% não es
 4) 33%.
 5) 30%.
 5
+
+

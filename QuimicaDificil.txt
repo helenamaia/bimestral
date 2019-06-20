@@ -1,9 +1,41 @@
+5
+5
+Sobre os oxidos duplos:
+1) resultam da combinaçao de dois oxidos de um mesmo elemento.
+2) não resultam da combinação de dois elementos iguais.
+3) resultam da combinacão de dois elemnetos identicos.
+4) são somente dois oxigenios.
+5) nenhuma das alternaitvas.
 1
-5
-Os compostos binários, cujo elemento mais eletronegativo é o oxigênio, classificam‐se em: óxidos, peróxidos e superóxidos, em função do valor no número de oxidação (Nox) do átomo de oxigênio. Assinale a alternativa que apresenta somente peróxidos. (Considere apenas o conceito, independente de sua estabilidade ou não.)
-1) H2O2, NaO e LiO.
-2) H2O2, LiO2 e SO2.
-3) H2O2, CaO e CaO4.
-4) H2O2, BaO e N2O5.
-5) H2O2, NaO2 e RbO2.
-5
+Em ralacão ao equiibrio quimico:
+1) é um estado na qual a velociade da reação não se iguala.
+2) é o estado no qual as velocidades das reacoes direta e inversa se igualam.
+3) é o estado no qual as velocidades das reacoes direta e inversa não se igualam.
+4) é o estado de equilibrio de uma reacao.
+5) nenhuma das alternativas.
+2
+A fumaça é um:
+1) gas.
+2) solucao.
+3) colioide.
+4) emulsao.
+5) suspensao
+3
+A sintese de Haber-Bosch é conhecida por produzir:
+1) amonia.
+2) ureia.
+3) glicose.
+4) plutanio.
+5) hematita.
+1
+Ácido Fênico é um(a):
+1) alcool.
+2) enol.
+3) fenol.
+4) cetona.
+5) acido carbixilico.
+3
+
+
+
+

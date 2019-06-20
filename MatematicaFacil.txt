@@ -1,4 +1,4 @@
-10
+8
 5
 7x9² é a mesma coisa que 9²x7. Essa afirmação é verdadeira ou falsa?
 1) verdadeira
@@ -56,6 +56,8 @@ Uma papelaria comprou 12 pacotes de folhas sulfites e cada pacote tem 120 folhas
 4) 1440.
 5) 1552.
 4
+
+
 
 
 
