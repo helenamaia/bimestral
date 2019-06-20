@@ -1,5 +1,6 @@
 package bimestral.control;
 
+import bimestral.NavegadorCenas;
 import bimestral.model.Jogador;
 import bimestral.model.Jogo;
 import javafx.fxml.FXML;
@@ -17,8 +18,12 @@ public class Ranking {
     @FXML
     public void initialize(){
 
-
+        Jogo.getInstance().cadastraRanking();
         ltvRanking.setItems(Jogo.getInstance().getListaRanking());
 
+    }
+    @FXML
+    public void voltar(){
+        NavegadorCenas.loadJanela(NavegadorCenas.ENTRAR);
     }
 }

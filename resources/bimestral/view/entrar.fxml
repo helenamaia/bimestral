@@ -21,56 +21,57 @@
             <center>
                 <GridPane vgap="5" hgap="5">
                     <padding>
-                        <Insets bottom="250" left="250" right="250" top="250" />
+                        <Insets bottom="250" left="250" right="100" top="250" />
                     </padding>
                     <Button text="Jogar"
 
-                            GridPane.columnIndex="0"
+                            GridPane.columnIndex="5"
                             GridPane.rowIndex="0"
                             onAction="#jogar"/>
-                    <ComboBox GridPane.rowIndex="1" GridPane.columnIndex="0" GridPane.columnSpan="8">
-                        <items>
-                            <FXCollections fx:factory="observableArrayList">
-                                <String fx:value="Fácil"/>
-                                <String fx:value="Médio"/>
-                                <String fx:value="Difícil"/>
-                            </FXCollections>
-                        </items>
-                        <value>
-                            <String fx:value="Fácil"/>
-                        </value>
-                    </ComboBox>
-                    <ComboBox GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="5">
-                        <items>
-                            <FXCollections fx:factory="observableArrayList">
-                                <String fx:value="Matemática"/>
-                                <String fx:value="Biologia"/>
-                                <String fx:value="Química"/>
-                                <String fx:value="Português"/>
-                                <String fx:value="Inglês"/>
-                                <String fx:value="Filosofia"/>
-                                <String fx:value="Física"/>
-                                <String fx:value="História"/>
-                                <String fx:value="Geografia"/>
-                            </FXCollections>
-                        </items>
-                        <value>
-                            <String fx:value="Matemática"/>
-                        </value>
-                    </ComboBox>
+                    <Label text="Tema:"
+                           style="-fx-text-fill: white"
+                           GridPane.columnIndex="0"
+                           GridPane.rowIndex="1"/>
+                    <fx:define>
+                        <ToggleGroup fx:id="grupoTema"/>
+                    </fx:define>
+                    <VBox GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="20"/>
+                    <RadioButton fx:id="mat" text="Matemática"  GridPane.rowIndex="3" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="bio" text="Biologia"  GridPane.rowIndex="4" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="qui" text="Química" GridPane.rowIndex="5" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="por" text="Português"  GridPane.rowIndex="6" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="ing" text="Inglês"  GridPane.rowIndex="7" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="fil" text="Filosofia"  GridPane.rowIndex="8" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="fis" text="Física" GridPane.rowIndex="9" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="his" text="História" GridPane.rowIndex="10" GridPane.columnIndex="0"  style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="geo" text="Geografia" GridPane.rowIndex="11" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
 
-                    <Button GridPane.columnIndex="0"
-                            GridPane.rowIndex="3"
+                    <Label text="Nível:"
+                           style="-fx-text-fill: white"
+                           GridPane.columnIndex="10"
+                           GridPane.rowIndex="1"/>
+
+                    <fx:define>
+                        <ToggleGroup fx:id="grupoNivel"/>
+                    </fx:define>
+                    <VBox GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="20"/>
+                    <RadioButton fx:id="fac" text="Fácil"  GridPane.rowIndex="3" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="med" text="Médio"  GridPane.rowIndex="4" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="dif" text="Difícil" GridPane.rowIndex="5" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+
+
+                    <Button GridPane.columnIndex="5"
+                            GridPane.rowIndex="13"
                             text="Ranking"
                             onAction="#ranking"/>
-                    <Button GridPane.columnIndex="0"
-                            GridPane.rowIndex="4"
+                    <Button GridPane.columnIndex="5"
+                            GridPane.rowIndex="14"
 
                             text="Ajuda"
 
                             onAction="#ajuda"/>
-                    <Button GridPane.columnIndex="5"
-                            GridPane.rowIndex="5"
+                    <Button GridPane.columnIndex="10"
+                            GridPane.rowIndex="15"
                             text="voltar"
                             onAction="#voltar"/>
 

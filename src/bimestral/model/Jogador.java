@@ -84,6 +84,6 @@ public class Jogador implements Serializable, Comparable<Jogador> {
 
     @Override
     public String toString() {
-        return "\t\t\t\t\t"+nome+"\t\t\t\t\t"+maiorPontuacao;
+        return "\t\t\t\t\t\t\t"+nome+"\t\t\t\t\t"+maiorPontuacao;
     }
 }

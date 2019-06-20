@@ -11,7 +11,7 @@ import javafx.scene.control.ToggleGroup;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class Jogar {
+public class Jogar extends Controlador{
 
     int cont = 0, pular = 0, pontos;
     ArrayList<Pergunta> sorteio = new ArrayList<>();
@@ -48,9 +48,11 @@ public class Jogar {
     }
     @FXML
     public void avancar(){
-        System.out.println(cont+" "+pular);
+        int sim=0;
+        //System.out.println(cont+" "+pular);
         String select = String.valueOf(grupo.getSelectedToggle());
         if(!select.equals("null")) {
+            sim=0;
             String[] div = select.split(",");
             div = div[0].split("=");
 
@@ -64,13 +66,18 @@ public class Jogar {
                 pontos=pontos-1;
             }
         }
+        else if(select.equals("null")){
+            mensagem("Por favor selecione uma opção");
+            sim=1;
+        }
         int auxiliar = cont - pular;
 
-        if(auxiliar<5){
+        if(auxiliar<5 && sim==0){
             mostraPergunta();
         }
-        else if(auxiliar==5){
+        else if(auxiliar==5 && sim == 0){
             Jogo.getInstance().adicionaPontuacao(pontos);
+            Jogo.getInstance().adicionaUltimajogada();
             NavegadorCenas.loadJanela(NavegadorCenas.FIM);
 
         }
