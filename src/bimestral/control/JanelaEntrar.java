@@ -37,6 +37,10 @@ public class JanelaEntrar extends Controlador {
             if (select.equals("bio")){
               a = "b";
             }
+            if(select.equals("mat")){
+                a = "m";
+            }
+
         }
         else if(select.equals("null")){
             mensagem("Por favor selecione uma opção");

@@ -29,14 +29,24 @@
                            GridPane.rowIndex="0"/>
                     <TextField GridPane.rowIndex="1"
                                GridPane.columnIndex="0"
-                                fx:id="tfLogin"/>
+                               fx:id="tfLogin"
+                               style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent"
+                    />
                     <Label text="Senha:"
                            style="-fx-text-fill: white"
                            GridPane.columnIndex="0"
                            GridPane.rowIndex="2"/>
                     <PasswordField GridPane.rowIndex="3"
                                GridPane.columnIndex="0"
-                               fx:id="tfSenha"/>
+                               fx:id="tfSenha"
+                                   style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent;"
+                               />
 
                     <Button onAction="#entrar"
                             text="Entrar"

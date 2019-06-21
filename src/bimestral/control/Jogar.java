@@ -120,7 +120,7 @@ public class Jogar extends Controlador{
         }
         enunciado=atual.getEnunciado();
         res = atual.getCorreta();
-        taVerPerguntas.setText(enunciado+"\n"+op1+"\n"+op2+"\n"+op3+"\n"+op4+"\n"+op5+"\n\n");
+        taVerPerguntas.setText(enunciado+"\n\n"+op1+"\n"+op2+"\n"+op3+"\n"+op4+"\n"+op5+"\n\n");
         cont++;
 
     }

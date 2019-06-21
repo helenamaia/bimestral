@@ -28,7 +28,11 @@
                                prefColumnCount="35"
                                GridPane.columnIndex="1"
                                GridPane.rowIndex="0"
-                               GridPane.columnSpan="3"/>
+                               GridPane.columnSpan="3"
+                               style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent;"/>
                     <Label text="Senha:"
                            style="-fx-text-fill:white"
                            GridPane.columnIndex="0"
@@ -38,7 +42,11 @@
                                prefColumnCount="10"
                                GridPane.columnIndex="1"
                                GridPane.rowIndex="1"
-                               GridPane.columnSpan="3"/>
+                               GridPane.columnSpan="3"
+                               style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent;"/>
                     <Label text="Confirme a senha:"
                            style="-fx-text-fill:white"
                            GridPane.columnIndex="0"
@@ -48,7 +56,11 @@
                                prefColumnCount="10"
                                GridPane.columnIndex="1"
                                GridPane.rowIndex="2"
-                               GridPane.columnSpan="3"/>
+                               GridPane.columnSpan="3"
+                               style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent;"/>
                     <Label text="Código"
                            style="-fx-text-fill:white"
                            GridPane.columnIndex="0"
@@ -57,7 +69,11 @@
                                prefColumnCount="2"
                                GridPane.columnIndex="1"
                                GridPane.rowIndex="3"
-                               GridPane.columnSpan="3"/>
+                               GridPane.columnSpan="3"
+                               style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent;"/>
                     <Label text="Nome"
                            style="-fx-text-fill:white"
                            GridPane.columnIndex="0"
@@ -67,6 +83,10 @@
                                GridPane.columnIndex="1"
                                GridPane.rowIndex="4"
                                GridPane.columnSpan="3"
+                               style="-fx-text-fill: white;
+                               -fx-border-color: white;
+                               -fx-border-width: 3pt;
+                               -fx-background-color: transparent;"
                     />
 
                         <Button text="Voltar"
