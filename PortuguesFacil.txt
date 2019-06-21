@@ -1,9 +1,39 @@
+5
+5
+Identifique o sujeito na seguinte frase: "João e Maria gostam de pirulitos."
+1) sujeito simples.
+2) sujeito composto.
+3) sujeito inderteminante.
+4) sujeito oculto.
+5) sujeito inexistente.
+2
+Identifique o sujeito na seguinte frase: "Gosto muito de bolo de chocolate!"
+1) não há sujeito na frase.
+2) sujeito oculto.
+3) sujeito composto.
+4) sujeito inderteminado.
+5) sujeito inexistente.
+2
+Indique a figura de linguagem na seguinte frase: "Eu comprei uma coca-cola."
+1) eufemismo.
+2) metominia.
+3) pleonasmo.
+4) zeugma.
+5) metafora.
+2
+Na frase "Eu chorei um rio de lágrimas", qual é a figura de linguagem exercida?
+1) metafora.
+2) zeugma.
+3) elipse.
+4) pleonasmo.
+5) hiperbole.
+5
+Qual figura de linguagem consta na frase "era uma bela criança chorona"
+1) ironia.
+2) hiperbole.
+3) sujeito.
+4) pleonasmo.
+5) senso.
 1
-5
-Os compostos binários, cujo elemento mais eletronegativo é o oxigênio, classificam‐se em: óxidos, peróxidos e superóxidos, em função do valor no número de oxidação (Nox) do átomo de oxigênio. Assinale a alternativa que apresenta somente peróxidos. (Considere apenas o conceito, independente de sua estabilidade ou não.)
-1) H2O2, NaO e LiO.
-2) H2O2, LiO2 e SO2.
-3) H2O2, CaO e CaO4.
-4) H2O2, BaO e N2O5.
-5) H2O2, NaO2 e RbO2.
-5
+
+

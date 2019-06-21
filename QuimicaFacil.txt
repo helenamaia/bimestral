@@ -1,9 +1,37 @@
+5
+5
+Em relação as dispersoes quimicas:
+1) são sistemas onde substancias  não são transformam em pequenos graos.
+2) são sistemas nos quais uma substancia está disseminada , sob a forma de pequenas particulas, em uma segunda substancia.
+3) sistemas de pequenas particulas fora de uma substancia.
+4) é dispersão das moleculas.
+5) nenhuma das alternatvas.
+2
+Em relacao a concentracao das soluçoes:
+1) é a quantidade em miligramas de soluto que existe em 2 litros de agua.
+2) é o quociente entre o volume e a massa da solucão.
+3) é o quociente entre a massa do soluto e o volume da solucao.
+4) é o quocinete entre a massa em (quilogramas) e o volume em (metros cubicos).
+3
+Podemos concluir que diluir uma solucao é:
+1) adicionar a ela uma porcao do proprio solvente puro.
+2) retirar o solvente.
+3) adicionar agua destilada.
+4) adicionar a ela uma porcao do proprio solvente impuro.
+5) retirar agua.
 1
-5
-Uma substância branca, solúvel em água e sólida A foi aquecida em uma mufla a altas temperaturas. Essa substância se decompõe para formar novas substâncias B e C. A substância B é muito útil na produção de vidros e cerâmicas. A substância C é um gás, da combustão completa entre carbono e oxigênio. Baseando-se nessas informações, é correto afirmar que as substâncias A,B e C são, respectivamente:
-1) Na2CO3 , CaO e CO.
-2) Na2CO3 , Na2O e CO2.
-3) CaCO3 , Na2O e CO2.
-4) CaCO3 , CaO e CO.
-5) Na2CO2, CaO, Na2O.
-5
+Em relação a concentracao molal ou molalidade (W):
+1) é a quantidade, em mols, de soluto existente em 2 kg de solvente.
+2) é a quantidade, em mols, de solvente existente em 1 kg de soluto.
+3) é a quantidade, em mols, de soluto existente em 0,5 kg de solvente.
+4) é a quantidade, em mols, de soluto existente em 1 kg de solvente.
+5) é a quantidade, em mols, de soluto que não  existe em 1 kg de solvente.
+4
+No efeito dos catalizadores na velocidade das reacoes quimicas:
+1) catalizador é a substancia que diminue a velocidade de uma reação, sem ser consumida durante o processo.
+2) catalizador é a substancia que aumenta a velocidade de uma reação, sem ser consumida durante o processo.
+3) catálise é não é provocado por um catalizador.
+4) catálise diminue a velocidade de uma reação.
+5) catalizador e catalize não fazem parte de uma reação quimica.
+2
+

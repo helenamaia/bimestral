@@ -1,4 +1,4 @@
-1
+10
 5
 São problemas que podem ocorrer quando se conservam microrganismos por longos períodos, EXCETO:
 1) mutação genética.
@@ -6,4 +6,72 @@ São problemas que podem ocorrer quando se conservam microrganismos por longos p
 3) acúmulo de nutrientes.
 4) perda de viabilidade.
 5) nenhuma das alternativas.
+3
+A célula é a menor estrutura de um ser vivo, considerada a unidade básica de todos os seres vivos. Sobre as estruturas que podem ser encontradas tanto nas células procarióticas como nas células eucarióticas assinale a alternativa correta.
+1) Membrana plasmática, citoplasma, material genético e ribossomos
+2) Membrana plasmática, citoplasma, material genético e lisossomos
+3) Membrana plasmática, citoplasma, material genético e mitocôndrias
+4) Membrana plasmática, citoplasma, núcleo e ribossomos
+5) Membrana plasmática, parede celular, citoplasma e núcleo
+1
+No ensino da biologia os seres vivos são agrupados em níveis crescentes de organização que vão desde o nível molecular até a biosfera. Em relação à organização biológica assinale a alternativa CORRETA:
+1) Populações são formadas por um conjunto de indivíduos que vivem em um mesmo local e são da mesma espécie ou de espécies diferentes.
+2) O conjunto de órgãos que interagem para a execução de certas funções forma os sistemas.
+3) O conjunto de populações de espécies distintas que vivem em locais diferentes forma uma comunidade.
+4) Os órgãos são a unidade morfológica e funcional dos seres vivos.
+5) Organismos da mesma espécie e de espécies diferentes formam uma população.
+2
+As proteínas são componentes orgânicos fundamentais encontrados em todos os seres vivos, tanto que, inicialmente, acreditava-se que eram as moléculas responsáveis pela hereditariedade. No que se refere às proteínas, assinale a opção correta.
+1) Uma proteína pode ser formada a partir de diversos genes.
+2) As enzimas são proteínas que formam a matéria-prima constitutiva da célula.
+3) Proteínas produzidas por um mesmo gene terão sempre a mesma sequência de aminoácidos.
+4) Os organismos são autossuficientes na síntese dos aminoácidos necessários para a síntese proteica.
+5) Proteínas são constituídas de uma cadeia polipeptídica.
+1
+Assinale a alternativa correta sobre os ácidos nucléicos:
+1) O DNA e o RNA são idênticos em constituição e diferentes em forma molecular.
+2) O RNA é constituído pelas bases púricas adenina e guanina, e pirimídicas uracila e timina.
+3) O DNA é constituído pelas bases púricas adenina e timina, e pirimídicas citosina e guanina.
+4) O DNA é constituído pelas bases púricas adenina e guanina, e pirimídicas citosina e timina.
+5) O RNA é constituído pelas bases púricas adenina e timina, e pirimídicas citosina e uracila.
+4
+Asas de morcegos e asas dos insetos têm origens embrionárias totalmente diferentes. Assim, durante a evolução, a adaptação pode levar organismos pouco aparentados a desenvolver estruturas e formas corporais semelhantes. Trata-se de um caso de:
+1) convergência evolutiva.
+2) divergência evolutiva.
+3) seleção artificial.
+4) lei do uso e desuso.
+5) irradiação adaptativa.
+1
+Embora seja um conceito fundamental para a biologia, o termo "evolução" pode adquirir dignificados diferentes do senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas. Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por:
+1) modificação de características.
+2) modificação de características.
+3) complexificação de seus sistemas.
+4) melhoria de processos e estruturas.
+5) especialização para uma determinada finalidade.
+1
+A ovelha Dolly, primeiro clone animal oficialmente declarado, após adulta foi acasalada com um macho não aparentado. Desse cruzamento resultou o nascimento de um filhote com características “normais”. Este filhote:
+1) é geneticamente idêntico à sua mãe, a ovelha Dolly.
+2) é geneticamente igual à sua avó, mãe da ovelha Dolly.
+3) não tem nenhum patrimônio genético de seu pai.
+4) é geneticamente identico ao pai.
+5) tem parte do material genético de seu pai e parte de sua mãe.
 5
+Os lipídios são substâncias caracterizadas por baixa capacidade de dissolução em água. Marque a alternativa INCORRETA sobre a importância dos lipídios para os seres vivos.
+1) São catalizadores biológicos.
+2) Impermeabilizam superfícies para evitar desidratação.
+3) É um componente da membrana plasmática.
+4) São percussores dos hormônios.
+5) Funcionam como reserva energética.
+1
+Os lipídios mais conhecidos são os glicerídeos, as ceras, os esteroides e os carotenoides. Sobre os lipídios, é correto afirmar que:
+1) O colesterol é um lipídio importante para o corpo humano porque compõe as membranas celulares e é precursor de hormônios esteroides.
+2) As células vegetais são ricas em colesterol, por isso, devemos evitar o uso de óleo de soja.
+3) Muitas plantas têm suas folhas impermeabilizadas por uma fina camada de glicerídeo.
+4) Os triglicerídeos desempenham papel importante no processo da fotossíntese.
+5) Os lipídios atuam como catalisadores biológicos.
+1
+
+
+
+
+

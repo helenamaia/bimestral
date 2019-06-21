@@ -1,4 +1,4 @@
-1
+10
 5
 Na fabricação de pães, por exemplo, são usados fungos unicelulares, chamados de leveduras, que são comercializados como fermento biológico. Eles são usados para promover o crescimento da massa, deixando-a leve e macia. O crescimento da massa do pão pelo processo citado é resultante da...
 1) liberação de gás carbônico.
@@ -6,4 +6,73 @@ Na fabricação de pães, por exemplo, são usados fungos unicelulares, chamados
 3) formação de água.
 4) liberação de calor.
 5) produção de APT.
+1
+Quais plantas não possuem vasos condutores?
+1) pteridófitas.
+2) briófitas.
+3) gimnospermas.
+4) angiospermas.
+5) anginosperma.
+2
+Qual o maior osso do corpo humano?
+1) tíbia.
+2) esterno.
+3) fêmur.
+4) cúbito.
+5) crânio.
+3
+Qual reino as bactérias pertencem?
+1) reino fungi.
+2) reino monera.
+3) reino proctista.
+4) reino animalia.
+5) reino plantae.
+2
+Qual organela celular é muito importante pela respiração celular?
+1) citoesqueleto.
+2) lisossomos.
+3) mitocôndria.
+4) centríolos.
+5) citoplasma.
+3
+Um óvulo contêm:
+1) um cromossomo Y.
+2) um cromossomo X.
+3) dois cromossomo Y.
+4) dois cromossomo X.
+5) um cromossomo X e Y.
+2
+Qual desses não é componente do sangue?
+1) plasma.
+2) plaquetas.
+3) aminoácidos.
+4) leucócitos.
+5) ferro.
+3
+Quantos cromossomos tem a espécie humana?
+1) 22.
+2) 23.
+3) 24.
+4) 44.
+5) 46.
 5
+Qual é o maior órgão do corpo humano?
+1) lingua.
+2) pulmao.
+3) pele.
+4) intestino.
+5) braço.
+3
+Qual é o sangue doador universal?
+1) o+.
+2) o-.
+3) ab+.
+4) ab-.
+5) a+.
+2
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-1
+5
 5
 O modelo de Bohr introduziu importantes inovações em relação aos modelos anteriores. Entre elas, pode-se citar a:
 1) existência de nêutrons.
@@ -6,4 +6,32 @@ O modelo de Bohr introduziu importantes inovações em relação aos modelos ant
 3) natureza elétrica da matéria.
 4) quantização da energia.
 5) Nexplicação do experimento de Rutherford.
+4
+Quais são os elementos existentes no grupo 18 (gases nobres)?
+1) Hélio, Argônio, Fluor, Hidrogénio, Nitrogênio, Ununóctio e Criptônio.
+2) Argônio, Criptônio, Radônio, Nitrogênio, Xenônio, Hélio e Oxigénio.
+3) Neônio, Hélio, Argônio, Criptônio, Xenônio, Radônio e Nitrogênio.
+4) Hidrogénio, Neônio, Nitrogênio, Hélio, Fluor, Ununóctio e Argônio.
+5) Hélio, Neônio, Argônio, Criptônio, Xenônio, Radônio e Ununóctio.
 5
+Quantos elétrons, no máximo, uma orbital pode conter?
+1) 1 eletron.
+2) 2 eletrons.
+3) 3 eletrons.
+4) 4 eletrons.
+5) 5 eletrons.
+2
+Qual elemento quimico que possui menos eletrons?
+1) oxigenio.
+2) helio.
+3) ferro.
+4) hidrogenio.
+5) aluminio.
+4
+O que particulariza os metais alcalinos é:
+1) formarem facilmente ions monopositivos.
+2) não formarem ions.
+3) formarem facilmente ions dinegativos.
+4) formarem facilmente ions dipositivos.
+5) formarem facilmente ion  mononegativos.
+1
