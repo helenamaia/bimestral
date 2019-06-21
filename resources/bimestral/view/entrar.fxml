@@ -55,9 +55,9 @@
                         <ToggleGroup fx:id="grupoNivel"/>
                     </fx:define>
                     <VBox GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="20"/>
-                    <RadioButton fx:id="fac" text="Fácil"  GridPane.rowIndex="3" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="med" text="Médio"  GridPane.rowIndex="4" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="dif" text="Difícil" GridPane.rowIndex="5" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="fac" text="Fácil"  GridPane.rowIndex="3" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoNivel"/>
+                    <RadioButton fx:id="med" text="Médio"  GridPane.rowIndex="4" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoNivel"/>
+                    <RadioButton fx:id="dif" text="Difícil" GridPane.rowIndex="5" GridPane.columnIndex="10" style="-fx-text-fill:white" toggleGroup="$grupoNivel"/>
 
 
                     <Button GridPane.columnIndex="5"

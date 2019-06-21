@@ -142,8 +142,17 @@ public class Jogo {
 
         try{
             Scanner scan = null;
-            if(tema.equals("a")){
-                scan = new Scanner(new File("ExemploPerguntas.txt"));
+            if(tema.equals("bf")){
+                scan = new Scanner(new File("BiologiaFacil.txt"));
+            }
+            else if(tema.equals("bm")){
+                scan = new Scanner(new File("BiologiaMedio.txt"));
+            }
+            else if(tema.equals("bd")){
+                scan = new Scanner(new File("BiologiaDificil.txt"));
+            }
+            else if(tema.equals("fm")){
+                scan = new Scanner(new File("FilosofiaMedio.txt"));
             }
             else if(tema.equals("b")){
                 scan = new Scanner(new File("InglesFacil.txt"));

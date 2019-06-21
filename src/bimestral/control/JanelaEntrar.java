@@ -17,6 +17,9 @@ public class JanelaEntrar extends Controlador {
     @FXML
     ToggleGroup grupoTema;
 
+
+    @FXML
+    ToggleGroup grupoNivel;
     @FXML
     public void initialize(){
 
@@ -28,14 +31,27 @@ public class JanelaEntrar extends Controlador {
         int sim = 0;
         String a = "";
         String select = String.valueOf(grupoTema.getSelectedToggle());
-        if(!select.equals("null")) {
+        String select1 = String.valueOf(grupoNivel.getSelectedToggle());
+        System.out.println(select1);
+        if(!select.equals("null") && !select1.equals("null")) {
             sim = 0;
             String[] div = select.split(",");
             div = div[0].split("=");
-
-            select = div[1];
-            if (select.equals("bio")){
-              a = "b";
+            String[] div1 = select1.split(",");
+            div1 = div1[0].split("=");
+            select =div[1];
+            select1 = div1[1];
+            if (select.equals("bio") && select1.equals("fac")){
+              a = "bf";
+            }
+            else if(select.equals("bio") && select1.equals("med")){
+                a = "bm";
+            }
+            else if(select.equals("bio") && select1.equals("dif")){
+                a = "bd";
+            }
+            else if(select.equals("fil") && select1.equals("med")){
+                a = "fm";
             }
             if(select.equals("mat")){
                 a = "m";
@@ -43,7 +59,7 @@ public class JanelaEntrar extends Controlador {
 
         }
         else if(select.equals("null")){
-            mensagem("Por favor selecione uma opção");
+            mensagem("Por favor selecione uma matéria e um nível");
             sim=1;
         }
         if(sim == 0){
