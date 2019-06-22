@@ -1,0 +1,71 @@
+10
+5
+Quais países da américa tem o mesmo nome do que a capital?
+1) Guiana e Guiana Francesa
+2) Brasil e Argentina
+3) México e Guatemala
+4) Guatemala e Canadá
+5) Belize e Venezuela
+3
+Palikir é a capital de qual país?
+1) Micronésia
+2) Haiti
+3) Cuba
+4) Maldivas
+5) Seychelles
+1
+A capital da Alemanha é Munich. Verdadeiro ou falso?
+1) Verdadeiro
+2) Falso
+3) A capital da Alemanha é Hamburgo.
+4) A capital da Alemanha é Berlim.
+5) nenhuma das alternativas.
+4
+Qual a capital do Fiji?
+1) Suva
+2) Nadi
+3) Lautoka
+4) Savusavu
+5) Sigatoka
+1
+Qual a cidade mais populosa a África do Sul?
+1) Pretória
+2) Joanesburgo
+3) Cidade do Cabo
+4) Bloenfonteim
+2
+Qual a cidade mais populosa da Nova Zelândia?
+1) Dunedin
+2) Palmerston North
+3) Wellington
+4) Manukau
+5) Auckalnd
+5
+A capital da Ilhas Salomão é Honiara?
+1) Verdadeiro
+2) Falso
+3) A capital da Ilhas de Salomão é Malaita.
+4) A capital de Ilhas de Salomão é Nova Geórgia
+5) A capital de Ilhas de Salomão é Makira
+1
+Quais as cores da bandeira da capital do Brasil?
+1) Branco, Amarelo e Verde
+2) Vermelho, Azul e Amarelo
+3) Verde e Amarelo
+4) Vermelho, Roxo e Branco
+5) Apenas Amarelo
+1
+Em qual distrito fica a capital de Portugal?
+1) Coimbra
+2) Lisboa
+3) Faro
+4) Porto
+5) Açores
+2
+Aruba, Bonaire e Curaçao são independentes dos Países Baixos (Holanda). Verdadeiro ou falso?
+1) Verdadeiro
+2) Falso
+3) Aruba, Bonaire e Curaçao são dependentes dos Países Altos
+4) Aruba, Bonaire e Curaçao não existem.
+5) nenhuma das alternativas.
+1

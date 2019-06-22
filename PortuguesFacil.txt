@@ -1,4 +1,4 @@
-5
+10
 5
 Identifique o sujeito na seguinte frase: "João e Maria gostam de pirulitos."
 1) sujeito simples.
@@ -35,5 +35,40 @@ Qual figura de linguagem consta na frase "era uma bela criança chorona"
 4) pleonasmo.
 5) senso.
 1
+Que palavra descreve melhor o vocábulo "CARPA"?
+1) Tipo de iguaria tradicional do nordeste brasileiro
+2) Espécie de dialeto falado no médio oriente
+3) Antiga unidade monetária da Suiça
+4) Antiga dança tradicional do Afeganistão
+5) Espécie de peixe muito cultivado em piscicultura
+5
+Uma das respostas abaixo NÃO está correta?
+1) Fidalgo é o mesmo que Nobre
+2) Fedelho quer dizer criança de pouca idade
+3) Fiança é a mesma coisa que Garantia
+4) Cuscuz é um prato regional brasileiro feito com farinha de milho
+5) Soror é uma solução mineral ou orgânica usada nos hospitais
+5
+A palavra Quilombo significa:
+1) É como são conhecidas as contusões que apresentam inchaços
+2) Pequeno morro ou monte de terra
+3) É o outro nome para as Lombadas usadas nas estradas ou ruas
+4) É quando alguma coisa aumenta de volume
+5) Esconderijo onde os escravos se refugiavam
+5
+Indique o conjunto de palavras, onde há UMA que não é SINÔNIMO das outras do mesmo grupo
+1) Alusivo, Referente, Relativo
+2) Amassar, Sovar, Mesclar
+3) Altura, Estatura, Cume
+4) Concordância, Aprovação, Anuência
+5) Amenizar, Abrandar, Fortalecer
+5
+O Vocábulo "OFTALGIA" significa:
+1) Dor na testa
+2) Dor nas costas
+3) Dor no olho
+4) Dor no ouvido
+5) Dor na pálpebra
+3
 
 

@@ -1,4 +1,4 @@
-5
+10
 5
 Em qual das frases abaixo a crase está INCORRETA?
 1) Os documentos foram apresentados à juíza.
@@ -35,3 +35,39 @@ Em qual das palavras abaixo há um Hiato?
 4) céu.
 5) relógio.
 2
+Em relação as figuras de linguagem. Marque a alternativa que indica uma hipérbole.
+1) Na lama lisa da margem, borboletas amarelas pousavam, imóveis, como pétalas num chão de festa.
+2) Estou com fome, acho que comeria um cavalo.
+3) A incerteza de tudo, na certeza de nada.
+4) Como dizia o pai de um filho burro:"Às vezes tenho que concordar em que meu filho não atingiu o índice normal de aproveitamento para meninos de sua idade".
+5) Algumas araras azuis, do alto de uma árvore, trocavam opiniões sobre o amanhecer.
+2
+Em relação as figuras de linguagem. Marque a alternativa que indica uma comparação.
+1) Na lama lisa da margem, borboletas amarelas pousavam, imóveis, como pétalas num chão de festa
+2) Estou com fome acho que comeria um cavalo.
+3) A incerteza de tudo, na certeza de nada.
+4) Como dizia o pai de um filho burro:"Às vezes tenho que concordar em que meu filho não atingiu o índice normal de aproveitamento para meninos de sua idade"
+5) Algumas araras azuis, do alto de uma árvore, trocavam opiniões sobre o amanhecer.
+1
+Em relação as figuras de linguagem. Marque a alternativa que indica uma metáfora.
+1) A estradinha era como uma serpente entre as colinas verdes.
+2) A estradinha era uma serpente entre as colinas verdes.
+3) Os homens não melhoraram, e matam-se como percevejos.
+4) A incerteza de tudo, na certeza de nada.
+5) Algumas araras azuis, do alto de uma árvore, trocavam opiniões sobre o amanhecer.
+2
+Em relação as figuras de linguagem. Marque a alternativa que indica uma metonímia.
+1) Algumas araras azuis, do alto de uma árvore, trocavam opiniões sobre o amanhecer.
+2) A incerteza de tudo, na certeza de nada.
+3) Como dizia o pai de um filho burro:"Às vezes tenho que concordar em que meu filho não atingiu o índice normal de aproveitamento para meninos de sua idade".
+4) Os homens não melhoraram, e matam-se como percevejos.
+5) Adoro ler Shakespeare.
+5
+Observe essa figura de linguagem: "Rio Itapecuru, o gigante das águas do Maranhão grita por socorro". Nesse trecho temos a seguinte figura de linguagem:
+1) Metonímia.
+2) Metáfora.
+3) Comparação.
+4) Personificação.
+5) Antítese.
+4
+

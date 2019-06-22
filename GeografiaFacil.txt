@@ -1,5 +1,4 @@
-
-5
+10
 5
 (ACAFE - 2007) O Brasil é dotado de uma vasta e densa rede hidrográfica. Dentre as bacias hidrográficas apontadas nas alternativas abaixo, uma delas não expressa a realidade. Assinale-a.
 1) A bacia do Paraná, integrante da bacia Platina, foi a que sofreu grande número de represamentos para geração de energia, atendendo não só ao consumo da grande densidade demográfica como também às indústrias.
@@ -36,3 +35,38 @@
 4) A vulnerabilidade dos países às flutuações internacionais do mercado de petróleo e às reservas de petróleo desproporcionalmente repartidas no planeta, fazem o mundo manter seu olhar preo-cupante voltado para o OrienteMédio,região de turbulências crônica.
 5) A demanda contínua desse hidrocarboneto pela população do planeta mantém o petróleo ainda como uma importante fonte não-renovável da matriz energética mundial para as próximas déca-das do século XXI.
 2
+Quantos movimentos o planeta Terra executa?
+1) 11 movimentos
+2) 12 movimentos
+3) 13 movimentos
+4) 14 movimentos
+5) 15 movimentos
+4
+Qual é a principal consequência do movimento de rotação?
+1) A formação das 4 estações do ano
+2) A formação dos dias e das noites
+3) A formação das chuvas
+4) A formação dos fenômenos naturais
+5) Nenhuma das alternativas
+2
+Qual a principal consequência do movimento de translação?
+1) A formação das 4 estações do ano
+2) A formação das chuvas
+3) A manutenção das temperaturas da Terra
+4) A formação do dia e da noite
+5) Nenhuma das alternativas
+1
+Qual a forma real da Terra?
+1) redonda
+2) geoide
+3) quadrada
+4) A Terra não tem forma
+5) Nenhuma das alternativas
+2
+Quanto tempo a Terra demora para executar o movimento de rotação?
+1) 22 horas,43 minutos e 54 segundos
+2) 23 horas,56 minutos e 40 segundos
+3) 23 horas, 56 minutos e 4 segundos
+4) 24 horas,56 minutos e 4 segundos
+5) Nenhuma das alternativas
+3

@@ -1,4 +1,4 @@
-5
+10
 5
 "[...] e havia quatro carruagens, cada qual tirada por dois cavalos, para os seus amigos e apoiadores; e as bandeiras rufavam, e a banda tocava, e os policiais xingavam, e os vinte membros da comissão eleitoral brigavam, e a multidão berrava, e os cavalos recuavam, e os postilhões suavam em bicas; e tudo e todos que lá estavam reunidos eram para o uso, o proveito, a honra e o renome especiais do Honourable Samuel Slumkey, de Slumkey Hall, um dos candidatos à representação do burgo de Eatanswill, na Câmara dos Comuns, do Parlamento do Reino Unido. A figura de linguagem presente no trecho é:
 1) Anamnese.
@@ -35,6 +35,42 @@
 4) Eufemismo.
 5) Anfibologia.
 2
+Quando dizemos "Mariana tropeçou e caiu", temos um sujeito simples com predicado?
+1) Verbo-nominal
+2) Nominal
+3) Verbal
+4) Verbal-nominal
+5) Nenhuma das alternativas
+3
+Se temos em um verbo transitivo um objeto direto, temos que esse verbo tende a ser transitivo direto. Em alguns casos, encontramos objeto direto e indireto: um verbo transitivo direto indireto. Assinale a alternativa que melhor representa a definição acima.
+1) Ele deve estar ciente.
+2) Nosso país deve se atentar.
+3) Elaine já está ficando preocupada.
+4) Samuel doou sua bicicleta antiga para um desabrigado.
+5) Quando devemos avisá-la?
+4
+O predicativo está relacionado ao sujeito ou ao objeto de determinada oração. Assinale a frase que contém predicativo do objeto.
+1) Ana Luiza é uma mulher muito inteligente.
+2) O Brasil é um país desestruturado em relação a distribuição da mais-valia.
+3) Acordei me sentindo estranha essa manhã.
+4) Apesar de tudo, ele é um bom garoto.
+5) A professora Gisele tem olhos lindos.
+5
+Se eu digo "Ninguém foi capaz de responder corretamente", então eu tenho:
+1) Uma frase "livre de verbos"
+2) Predicativo do objeto
+3) Verbos no infinitivo
+4) Sujeito indeterminado
+5) Sujeito simples
+5
+Temos predicado verbo nominal quando:
+1) Existe verbo de ação e predicativo do sujeito na sentença.
+2) Existe verbo de ação e ligação na sentença
+3) Existe apenas um verbo de ação na sentença.
+4) Existe verbo de ligação e predicativo do sujeito na sentença.
+5) Nenhuma é a correta.
+1
+
 
 
 

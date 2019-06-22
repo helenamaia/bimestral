@@ -1,9 +1,72 @@
-1
+10
+5
+Calcule o valor da expressão numérica abaixo: 15+{25-[2-(8-6)]+2}.
+1) 53
+2) 32
+3) 42
+4) 53
+5) 76
 3
-Carlos comprou dois produtos: no primeiro produto pagou R$ 80,00 já incluso 20% de desconto sobre o preço à vista do produto; no segundo produto pagou R$ 50,00 já incluso 25% de acréscimo sobre o preço à vista do produto. Nessas condições, a soma dos preços à vista dos dois produtos é de:
-1) R$ 133,50.
-3) R$ 130,00.
-4) R$ 140,00.
-5) R$ 150,00
-1
-
+Pensei em um número, dividi esse número por 15, do resultado subtraí 10 e obtive 40. Em que número pensei?
+1) 234
+2) 750
+3) 850
+4) 657
+5) 456
+2
+Quanto é 9³?
+1) 879
+2) 132
+3) 2654
+4) 729
+5) 235
+4
+Quanto é 13²?
+1) 354
+2) 167
+3) 234
+4) 456
+5) 169
+5
+Calcule a expressão numérica: 40-[5²+(2³-6)].
+1) 3
+2) 10
+3) 12
+4) 13
+5) 15
+4
+Quanto é 5³?
+1) 657
+2) 234
+3) 125
+4) 278
+5) 120
+3
+Quanto é 8³?
+1) 390
+2) 512
+3) 176
+4) 234
+5) 576
+2
+Quanto é 10³?
+1) 235
+2) 993
+3) 1000
+4) 879
+5) 1001
+3
+Maria tinha 24 balas e deu 1/3 para sua prima. Com quantas balas Maria ficou?
+1) 4
+2) 8
+3) 12
+4) 16
+5) 20
+4
+João fez uma prova de matemática de 50 questões e apenas acertou 24% delas. Quantas questões ele acertou?
+1) 6
+2) 12
+3) 18
+4) 24
+5) 30
+2

@@ -1,0 +1,73 @@
+10
+5
+Quanto tempo a Terra demora para executar o movimento de translação?
+1) 24 horas,56 minutos e 4 minutos
+2) 364 dias,5 horas e 45 segundos
+3) 5 horas,48 minutos e 46 minutos
+4) 365 dias,5 horas, 48 minutos e 46 segundos
+5) 365 dias, 1 hora e 46 segundos
+4
+O que é litosfera?
+1) É o solo onde pisamos
+2) É o conjunto de água de todo o planeta
+3) É a camada mais extensa da atmosfera
+4) É o conjunto de sistemas vivos do planeta
+5) Nenhuma das alternativas
+1
+O que é hidrosfera?
+1) É o solo onde pisamos
+2) É o conjunto de água de todo o planeta
+3) É a camada mais extensa da atmosfera
+4) É o conjunto de sistemas vivos do planeta
+5) Nenhuma das alternativas
+2
+O que é atmosfera?
+1) É o solo onde pisamos
+2) É o conjunto de água de todo o planeta
+3) É a camada gasosa que envolve a Terra
+4) É o conjunto de sistemas vivos do planeta
+5) Nenhuma das alternativas
+3
+O que é biosfera?
+1) É o solo onde pisamos
+2) É o conjunto de água de todo o planeta
+3) É a camada gasosa que envolve a Terra
+4) É o conjunto de sistemas vivos do planeta
+5) Nenhuma das alternativas
+4
+Qual a capital da Escócia?
+1) Helsinque
+2) Cardiff
+3) Edimburgo
+4) Reykjavík
+5) Glasgow
+3
+Ulan Bator é a capital de qual país?
+1) Cazaquistão
+2) Paquistão
+3) Quirguistão
+4) Mongólia
+5) Nepal
+4
+Qual a capital da Eritreia?
+1) Asmara
+2) Cartum
+3) Juba
+4) Nairóbi
+5) Djibouti
+1
+Qual a capital da Lituânia?
+1) Talín
+2) Riga
+3) Vilnius
+4) Minsk
+5) São Petersburgo
+3
+Pyongyang é a capital de qual país?
+1) Taiwan
+2) Filipinas
+3) Cambodja
+4) Laos
+5) Coréia do Norte
+5
+
