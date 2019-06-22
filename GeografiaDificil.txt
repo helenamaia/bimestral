@@ -33,6 +33,7 @@ Qual a cidade mais populosa a África do Sul?
 2) Joanesburgo
 3) Cidade do Cabo
 4) Bloenfonteim
+5) Monte Carlo
 2
 Qual a cidade mais populosa da Nova Zelândia?
 1) Dunedin

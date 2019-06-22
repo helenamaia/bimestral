@@ -60,6 +60,24 @@ public class JanelaEntrar extends Controlador {
             else if(select.equals("fil") && select1.equals("dif")){
                 a = "fd";
             }
+            else if(select.equals("geo") && select1.equals("dif")){
+                a = "gd";
+            }
+            else if(select.equals("geo") && select1.equals("fac")){
+                a = "gf";
+            }
+            else if(select.equals("geo") && select1.equals("med")){
+                a = "gm";
+            }
+            else if(select.equals("his") && select1.equals("fac")){
+                a = "hf";
+            }
+            else if(select.equals("his") && select1.equals("med")){
+                a = "hm";
+            }
+            else if(select.equals("his") && select1.equals("dif")){
+                a = "hd";
+            }
             if(select.equals("mat")){
                 a = "m";
             }

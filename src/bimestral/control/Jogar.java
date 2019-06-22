@@ -28,6 +28,7 @@ public class Jogar extends Controlador{
     @FXML
     public void initialize(){
 
+
         sorteio.addAll(Jogo.getInstance().sortear());
 
 
@@ -77,6 +78,7 @@ public class Jogar extends Controlador{
             mostraPergunta();
         }
         else if(auxiliar==5 && sim == 0){
+            Jogo.getInstance().apagarPerguntas();
             sorteio.clear();
             Jogo.getInstance().adicionaPontuacao(pontos);
             Jogo.getInstance().adicionaUltimajogada();
@@ -129,6 +131,7 @@ public class Jogar extends Controlador{
 
     @FXML
     public void desistir(){
+        Jogo.getInstance().apagarPerguntas();
         sorteio.clear();
         Jogo.getInstance().adicionaPontuacao(-(pontos));
         NavegadorCenas.loadJanela(NavegadorCenas.ENTRAR);

@@ -165,6 +165,25 @@ public class Jogo {
             else if(tema.equals("fd")){
                 scan = new Scanner(new File("FilosofiaDificil.txt"));
             }
+            else if(tema.equals("gd")){
+                scan = new Scanner(new File("GeografiaDificil.txt"));
+            }
+            else if(tema.equals("gm")){
+                scan = new Scanner(new File("GeografiaMedio.txt"));
+            }
+            else if(tema.equals("gf")){
+                scan = new Scanner(new File("GeografiaFacil.txt"));
+            }
+            else if(tema.equals("hf")){
+                scan = new Scanner(new File("HistoriaFacil.txt"));
+            }
+            else if(tema.equals("hm")){
+                scan = new Scanner(new File("HistoriaMedio.txt"));
+            }
+            else if(tema.equals("hd")){
+                scan = new Scanner(new File("HistoriaDificil.txt"));
+            }
+
             else if(tema.equals("b")){
                 scan = new Scanner(new File("InglesFacil.txt"));
             }
