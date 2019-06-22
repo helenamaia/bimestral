@@ -1,0 +1,72 @@
+10
+5
+"Muitas têm sido as explicações das causas históricas para a origem da filosofia na Jônia. Alguns consideram que as navegações e as transformações técnicas tiveram o poder de desencantar o mundo e forçar o surgimento de explicações racionais sobre a realidade. Outros enfatizam a invenção do calendário (tempo abstrato), da moeda (signo abstrato para a ação de troca) e da escrita alfabética (transcrição abstrata da palavra e do pensamento), que teriam propiciado o desenvolvimento da capacidade de abstração dos gregos, abrindo caminho para a filosofia. Sem dúvida, esses fatores foram importantes e não podem ser desconsiderados e minimizados, mas não foram os principais" (CHAUÍ, M. Introdução à história da filosofia - dos pré-socráticos a Aristóteles. São Paulo: Brasiliense, 1994 - p. 35). A principal determinação histórica para o nascimento da filosofia é
+1) política: o nascimento, simultâneo a ela, da Cidade-Estado, isto é, da polis, pois, com esta, desaparece a figura que foi a do antecessor do filósofo, o Mestre da Verdade (o poeta, o adivinho e o rei-da-justiça).
+2) ética: na Grécia arcaica a palavra verdadeira ou alétheia nasce simultaneamente à filosofia, pois é esta palavra eficaz que dá origem ao logos em oposição à dóxa.
+3) mitológica: o nascimento, simultâneo a ela, do oráculo de Delfos, marcando, de forma decisiva, a vinculação entre a filosofia e mitologia.
+4) épica: o nascimento, simultâneo a ela, de uma nova classe de homens, aqueles que têm direito à palavra, os guerreiros; no entanto, não se trata mais daquela palavra religiosa, solitária e unilateral, própria dos iniciados, mas sim da palavra compartilhada, dita em público, de maneira leiga e humana.
+5) teórica: a filosofia nasce da contemplação desinteressada, ela é simultânea ao nascimento da ontologia ou metafísica, isto é, à pretensão do logos em atingir o universal (o Ser).
+1
+O fato científico
+1) consiste em um método de interpretação conceitual-filosófico, posterior ao procedimento analítico.
+2) é o procedimento analítico por excelência das ciências humanas, encarregado de vincular os elementos subjetivos e objetivos de um fenômeno.
+3) ou o objeto científico são dados empíricos espontâneos de nossa experiência cotidiana, arrolados pelos cientistas para verificação e classificação estatísticas.
+4) ou o objeto científico são dados empíricos construídos pela investigação científica.
+5) demonstra, prova e prevê uma teoria científica.
+4
+De acordo com o texto, pode-se afirmar que:
+1) O conhecimento filosófico é o único que pressupõe o acesso ao mundo sensível.
+2) Filosofar é um instrumento de alienação para quem sai da caverna.
+3) O filósofo, por sua busca, tem uma visão mais abrangente do conhecimento.
+4) A unidade da verdade não permite divagações metafísicas.
+5) Todas as alternativas estão incorretas.
+3
+Sobre as relações entre Ciência e Senso Comum, marque a alternativa FALSA, ou seja, aquela que não descreve adequadamente essa relação ou alguns de seus termos.
+1) "O senso comum e a ciência são expressões da mesma necessidade básica, a necessidade de compreender o mundo, a fim de viver melhor e sobreviver. E para aqueles que teriam a tendência de achar que o senso comum é inferior à ciência (...), por dezenas de milhares de anos os homens sobreviveram sem coisa alguma que se assemelhasse a essa nossa ciência".
+2) "O bom senso [ou senso comum] é simplesmente o depósito intelectual indiferenciado resultante da série de experiências fecundas da espécie, do grupo social e do indivíduo, que se transmite em forma não-sistemática, por herança racional, e não em caráter de conhecimento refletido".
+3) "O senso comum é marcado pela falta de qualquer conteúdo racional, não se constituindo em nenhum momento uma construção cognitiva válida. A ciência representa uma ruptura radical com o senso comum, ao substituí-lo por uma compreensão do real racionalmente construída. O senso comum é irracional e a ciência representa a racionalidade do ser humano".
+4) "Enquanto o saber comum observa um fato a partir do conjunto de dados sensíveis que formam a nossa percepção imediata, pessoal e efêmera do mundo, o fato científico é um fato abstrato, isolado do conjunto em que se encontra normalmente inserido e elevado a um grau de generalidade (...). Isso supõe uma capacidade de racionalização dos dados recolhidos, que nunca aparecem como dados brutos, mas sempre passíveis de interpretação".
+5) "A ciência não é um órgão novo do conhecimento. A ciência é a hipertrofia de capacidades que todos têm. Isto pode ser bom, mas pode ser muito perigoso. Quanto maior a visão em profundidade, menor a visão em extensão. A tendência da especialização [na ciência] é conhecer cada vez mais de cada vez menos. [Nesse sentido], a aprendizagem da ciência é um processo de desenvolvimento progressivo do senso comum. Só podemos ensinar e aprender partindo do senso comum de que o aprendiz dispõe".
+3
+Por meio do diálogo, Sócrates construía com seus interlocutores uma relação pautada em perguntas, respostas e novas perguntas. Tal método também ficou conhecido como maiêutica, e sobre ele é correto afirmar que
+1) tem como finalidade uma conclusão efetiva, ainda que seu interlocutor não abandone a doxa.
+2) a verdade descoberta por seu interlocutor consiste em uma novidade ontológica.
+3) enquanto dizia saber apenas que não sabia, Sócrates propunha o "não saber" como termo à sua filosofia.
+4) possibilitava Sócrates ajudar seus interlocutores a dar à luz ideias que já estavam neles.
+5) Todas as alternativas.
+4
+Muito já se disse acerca das relações entre mito e filosofia. Há aqueles, como o inglês Francis Macdonald Cornford, que, ainda que tenham suas diferenças, há vínculos do mito na filosofia. Porém, ao contrário desta teoria da continuidade, estudiosos do assunto, como Jean-Pierre Vernant, defendem a ruptura entre mito e filosofia. Considerada esta última hipótese, pode-se afirmar que a ruptura entre mito e filosofia se dá porque
+1) o mito tem caráter cosmológico, enquanto a filosofia explica o universo a partir de bases racionais.
+2) a inteligibilidade do mito é dada, enquanto a filosofia busca a definição rigorosa de conceitos.
+3) o mito possui uma relação crítica com seu conteúdo, enquanto a filosofia jamais é crítica de si mesma.
+4) o mito é narrativo, enquanto que a filosofia é descritiva.
+5) Todas as alternativas estão incorretas.
+2
+Em filosofia, o conceito de "mundos possíveis" é usado para expressar:
+1) Princípios de permanência e transformação.
+2) Dependências e processos sociais (trabalho e facticidade).
+3) Modalidades (possibilidade, necessidade e contingência).
+4) Ideologia, identidade e utopia.
+5) A razão e tudo que depende dela.
+3
+O momento histórico da passagem do mito ao nascimento da filosofia da Grécia antiga teve como um dos fatores a:
+1) A condição geográfica do território grego proporcionou a expansão em direção ao exterior, favorecendo o comercio marítimo, contribuindo para o processo de desmistificação.
+2) A reinvenção de uma escrita, estimulando o pensamento crítico, enquanto as leis escritas foram responsáveis pela permanência no poder da classe rica já existente.
+3) A organização política relacionada aos limites geográficos do território grego permitiu a formação de um grande e único império.
+4) O ambiente da polis estimulava o debate em praça publica, fazendo nascer a política e o cidadão, mesmo sendo suas decisões ainda sob o poder da vontade dos deuses.
+5) Todas as alternativas anteriores estão corretas
+1
+O mito é a forma mais remota de crença, narrativas sobre a origem do mundo, dos homens e das coisas da natureza. Sobre o mito, assinale a alternativa INCORRETA.
+1) Procura explicar de forma abstrata, uma realidade "misteriosa" para o homem.
+2) O mito está impregnado do desejo humano de afugentar a insegurança, os temores e a angustia diante do desconhecido.
+3) O mito formava para os gregos um sistema fácil, onde os fenômenos naturais ocorrem de forma objetiva.
+4) Explica a realidade, como também acomoda e tranquiliza o ser humano em seu mundo assustador.
+5) O mito grego "As moiras", eram as divindades irmãs que regulavam a duração da vida dos seres humanos desde o nascimento até a morte.
+3
+Quanto ao pensamento filosófico ou simplesmente o filosofar, nasce do desejo de perguntar, de conhecer, de investigar, de encontrar soluções que o incentivem o homem a evoluir, sendo assim podemos afirmar que a filosofia:
+1) Interessa-se pela própria inteligência e pela realidade de uma forma geral
+2) Não se satisfaz apenas com os resultados apresentados pelas ciências e sempre procura ir além, mas sem discutir com seus propósitos políticos e sociais.
+3) Usa-se de argumentos por vezes inválidos para justificar seus conhecimentos
+4) Tem como método também utilizado, as opiniões pessoais.
+5) Todas as alternativas anteriores estão incorretas
+1
