@@ -35,6 +35,11 @@ public class Jogo {
         return  instance;
     }
 
+    public void apagarPerguntas() {
+        perguntas = FXCollections.observableArrayList();
+    }
+
+
     public ObservableList<Jogador> getListaj(){
         return FXCollections.unmodifiableObservableList(jogadores);
     }
@@ -153,6 +158,12 @@ public class Jogo {
             }
             else if(tema.equals("fm")){
                 scan = new Scanner(new File("FilosofiaMedio.txt"));
+            }
+            else if(tema.equals("ff")){
+                scan = new Scanner(new File("FilosofiaFacil.txt"));
+            }
+            else if(tema.equals("fd")){
+                scan = new Scanner(new File("FilosofiaDificil.txt"));
             }
             else if(tema.equals("b")){
                 scan = new Scanner(new File("InglesFacil.txt"));

@@ -28,6 +28,7 @@ public class JanelaEntrar extends Controlador {
 
     @FXML
     public void jogar() {
+        Jogo.getInstance().apagarPerguntas();
         int sim = 0;
         String a = "";
         String select = String.valueOf(grupoTema.getSelectedToggle());
@@ -53,12 +54,18 @@ public class JanelaEntrar extends Controlador {
             else if(select.equals("fil") && select1.equals("med")){
                 a = "fm";
             }
+            else if(select.equals("fil") && select1.equals("fac")){
+                a = "ff";
+            }
+            else if(select.equals("fil") && select1.equals("dif")){
+                a = "fd";
+            }
             if(select.equals("mat")){
                 a = "m";
             }
 
         }
-        else if(select.equals("null")){
+        else if(select.equals("null") || select1.equals("null")){
             mensagem("Por favor selecione uma matéria e um nível");
             sim=1;
         }
