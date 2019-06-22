@@ -13,7 +13,7 @@ import java.util.HashSet;
 
 public class Jogar extends Controlador{
 
-    int cont = 0, pular = 0, pontos;
+    int cont = 0, pular = 0, pontos, nivel;
     ArrayList<Pergunta> sorteio = new ArrayList<>();
     Pergunta atual = null;
 
@@ -28,7 +28,7 @@ public class Jogar extends Controlador{
     @FXML
     public void initialize(){
 
-
+        nivel = Jogo.getInstance().mostrarNivel();
         sorteio.addAll(Jogo.getInstance().sortear());
 
 
@@ -61,8 +61,15 @@ public class Jogar extends Controlador{
             select = div[1];
             Pergunta p = atual;
             if (select.equals(String.valueOf(p.getCorreta()))) {
-
-                pontos=pontos+3;
+                if(nivel==1){
+                    pontos=pontos+3;
+                }
+                else if(nivel==2){
+                    pontos=pontos+4;
+                }
+                else if(nivel==3){
+                    pontos=pontos+5;
+                }
             } else {
 
                 pontos=pontos-1;

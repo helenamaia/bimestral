@@ -36,15 +36,13 @@
                         <ToggleGroup fx:id="grupoTema"/>
                     </fx:define>
                     <VBox GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="20"/>
-                    <RadioButton fx:id="mat" text="Matemática"  GridPane.rowIndex="3" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="bio" text="Biologia"  GridPane.rowIndex="4" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="qui" text="Química" GridPane.rowIndex="5" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="por" text="Português"  GridPane.rowIndex="6" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="ing" text="Inglês"  GridPane.rowIndex="7" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="fil" text="Filosofia"  GridPane.rowIndex="8" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="fis" text="Física" GridPane.rowIndex="9" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="his" text="História" GridPane.rowIndex="10" GridPane.columnIndex="0"  style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
-                    <RadioButton fx:id="geo" text="Geografia" GridPane.rowIndex="11" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="bio" text="Biologia"  GridPane.rowIndex="3" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="qui" text="Química" GridPane.rowIndex="4" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="ing" text="Inglês"  GridPane.rowIndex="5" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="fil" text="Filosofia"  GridPane.rowIndex="6" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="fis" text="Física" GridPane.rowIndex="7" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="his" text="História" GridPane.rowIndex="8" GridPane.columnIndex="0"  style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
+                    <RadioButton fx:id="geo" text="Geografia" GridPane.rowIndex="9" GridPane.columnIndex="0" style="-fx-text-fill:white" toggleGroup="$grupoTema"/>
 
                     <Label text="Nível:"
                            style="-fx-text-fill: white"

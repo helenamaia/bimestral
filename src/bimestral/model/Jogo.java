@@ -9,6 +9,7 @@ import java.util.*;
 
 public class Jogo {
 
+    int nivel;
 
     public static final String ARQUIVO = "jogadores.bin";
 
@@ -37,6 +38,14 @@ public class Jogo {
 
     public void apagarPerguntas() {
         perguntas = FXCollections.observableArrayList();
+    }
+
+    public void colocarNivel(int n){
+        nivel = n;
+    }
+
+    public int mostrarNivel(){
+        return nivel;
     }
 
 
@@ -183,27 +192,14 @@ public class Jogo {
             else if(tema.equals("hd")){
                 scan = new Scanner(new File("HistoriaDificil.txt"));
             }
-            else if(tema.equals("mf")){
-                scan = new Scanner(new File("MatematicaFacil.txt"));
-            }
-            else if(tema.equals("mm")){
-                scan = new Scanner(new File("MatematicaMedio.txt"));
-            }
-            else if(tema.equals("md")){
-                scan = new Scanner(new File("MatematicaDificil.txt"));
-            }
-            else if(tema.equals("pf")){
-                scan = new Scanner(new File("PortuguesFacil.txt"));
-            }
-            else if(tema.equals("pm")){
-                scan = new Scanner(new File("PortuguesMedio.txt"));
-            }
-            else if(tema.equals("pd")){
-                scan = new Scanner(new File("PortuguesDificil.txt"));
-            }
-
-            else if(tema.equals("b")){
+            else if(tema.equals("if")){
                 scan = new Scanner(new File("InglesFacil.txt"));
+            }
+            else if(tema.equals("im")){
+                scan = new Scanner(new File("InglesMedio.txt"));
+            }
+            else if(tema.equals("id")){
+                scan = new Scanner(new File("InglesDificil.txt"));
             }
             ArrayList<String> texto = new ArrayList<>();
 

@@ -4,6 +4,7 @@ import bimestral.NavegadorCenas;
 import bimestral.model.Jogo;
 import bimestral.model.Pergunta;
 import javafx.fxml.FXML;
+import javafx.scene.Parent;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.ToggleGroup;
 
@@ -20,6 +21,9 @@ public class JanelaEntrar extends Controlador {
 
     @FXML
     ToggleGroup grupoNivel;
+
+
+
     @FXML
     public void initialize(){
 
@@ -43,59 +47,64 @@ public class JanelaEntrar extends Controlador {
             select =div[1];
             select1 = div1[1];
             if (select.equals("bio") && select1.equals("fac")){
+                Jogo.getInstance().colocarNivel(1);
               a = "bf";
             }
             else if(select.equals("bio") && select1.equals("med")){
+                Jogo.getInstance().colocarNivel(2);
                 a = "bm";
             }
             else if(select.equals("bio") && select1.equals("dif")){
+                Jogo.getInstance().colocarNivel(3);
                 a = "bd";
             }
             else if(select.equals("fil") && select1.equals("med")){
+                Jogo.getInstance().colocarNivel(2);
                 a = "fm";
             }
             else if(select.equals("fil") && select1.equals("fac")){
+                Jogo.getInstance().colocarNivel(1);
                 a = "ff";
             }
             else if(select.equals("fil") && select1.equals("dif")){
+                Jogo.getInstance().colocarNivel(3);
                 a = "fd";
             }
             else if(select.equals("geo") && select1.equals("dif")){
+                Jogo.getInstance().colocarNivel(3);
                 a = "gd";
             }
             else if(select.equals("geo") && select1.equals("fac")){
+                Jogo.getInstance().colocarNivel(1);
                 a = "gf";
             }
             else if(select.equals("geo") && select1.equals("med")){
+                Jogo.getInstance().colocarNivel(2);
                 a = "gm";
             }
             else if(select.equals("his") && select1.equals("fac")){
+                Jogo.getInstance().colocarNivel(1);
                 a = "hf";
             }
             else if(select.equals("his") && select1.equals("med")){
+                Jogo.getInstance().colocarNivel(2);
                 a = "hm";
             }
             else if(select.equals("his") && select1.equals("dif")){
+                Jogo.getInstance().colocarNivel(3);
                 a = "hd";
             }
-            else if(select.equals("mat") && select1.equals("fac")){
-                a = "mf";
+            else if(select.equals("ing") && select1.equals("fac")){
+                Jogo.getInstance().colocarNivel(1);
+                a = "if";
             }
-            else if(select.equals("mat") && select1.equals("med")){
-                a = "mm";
+            else if(select.equals("ing") && select1.equals("med")){
+                a = "im";
             }
-            else if(select.equals("mat") && select1.equals("dif")){
-                a = "md";
+            else if(select.equals("ing") && select1.equals("dif")){
+                a = "id";
             }
-            else if(select.equals("por") && select1.equals("fac")){
-                a = "pf";
-            }
-            else if(select.equals("por") && select1.equals("med")){
-                a = "pm";
-            }
-            else if(select.equals("por") && select1.equals("dif")){
-                a = "pd";
-            }
+
             if(select.equals("mat")){
                 a = "m";
             }
