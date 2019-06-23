@@ -20,7 +20,7 @@
                     <padding>
                         <Insets bottom="15" left="150" right="150" top="15" />
                     </padding>
-                    <TextArea fx:id="taVerAjuda" prefColumnCount="20" prefHeight="500.0" prefWidth="500.0" />
+                    <TextArea fx:id="taVerAjuda" prefColumnCount="20" prefHeight="500.0" prefWidth="500.0" wrapText="true" />
 
                 </GridPane>
             </center>

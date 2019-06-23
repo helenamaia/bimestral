@@ -10,7 +10,7 @@ public class Fim {
 
     @FXML
     public void initialize(){
-        System.out.println(Jogo.getInstance().getListaj());
+
     }
     @FXML
     public void volta(){

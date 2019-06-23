@@ -82,12 +82,12 @@ public class Jogo {
             Jogador jog = new Jogador(login, senha, cod, name, pontuation, l);
             raking.add(jog);
         }
-        System.out.println(raking);
+
     }
     public void cadastrarAtual(Jogador j){
         atual.removeAll(atual);
         atual.add(j);
-        System.out.println("\n\natual:"+atual);}
+    }
 
     public void cadastrarper(Pergunta p){
         perguntas.add(p);
@@ -288,7 +288,6 @@ public class Jogo {
         for(Jogador j: jogadores){
             if(j.getLogin().equals(login) && j.getSenha().equals(senha)){
                 j.setUltimaJogada(LocalDateTime.now());
-                System.out.println(j.getUltimaJogada());
 
             }
 

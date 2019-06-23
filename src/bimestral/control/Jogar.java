@@ -39,19 +39,16 @@ public class Jogar extends Controlador{
     }
     @FXML
     public void pular(){
-        System.out.println(cont+" "+pular);
         if(pular<3){
             pular++;
             mostraPergunta();
         }
-        System.out.println(cont+" "+pular);
 
 
     }
     @FXML
     public void avancar(){
         int sim=0;
-        //System.out.println(cont+" "+pular);
         String select = String.valueOf(grupo.getSelectedToggle());
         if(!select.equals("null")) {
             sim=0;

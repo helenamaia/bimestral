@@ -23,7 +23,7 @@ public class Principal extends Controlador{
 
     @FXML
     public void initialize(){
-        System.out.println(Jogo.getInstance().getListaj());
+
     }
 
     @FXML

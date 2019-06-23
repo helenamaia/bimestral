@@ -37,7 +37,6 @@ public class JanelaEntrar extends Controlador {
         String a = "";
         String select = String.valueOf(grupoTema.getSelectedToggle());
         String select1 = String.valueOf(grupoNivel.getSelectedToggle());
-        System.out.println(select1);
         if(!select.equals("null") && !select1.equals("null")) {
             sim = 0;
             String[] div = select.split(",");
@@ -99,9 +98,11 @@ public class JanelaEntrar extends Controlador {
                 a = "if";
             }
             else if(select.equals("ing") && select1.equals("med")){
+                Jogo.getInstance().colocarNivel(2);
                 a = "im";
             }
             else if(select.equals("ing") && select1.equals("dif")){
+                Jogo.getInstance().colocarNivel(3);
                 a = "id";
             }
 
